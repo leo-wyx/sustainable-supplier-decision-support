@@ -1,0 +1,38 @@
+﻿supplier_id,supplier_name,category,M1_Status,carbon_intensity,carbon_performance_level,pcf_commitment_signal,certification_signal,labor_governance_signal,ESG_Position_Tier,ESG_position_reason
+S15,Supplier_S15,Critical_Raw,PASS,0.291,Low,Not committed,ISO 9001,Strong,ESG Compliant,Weakness: no PCF commitment
+S13,Supplier_S13,Critical_Raw,PASS,0.625,High,Not committed,IATF,Adequate,ESG Monitor,"Weakness: high carbon intensity, no PCF commitment"
+S14,Supplier_S14,Critical_Raw,PASS,0.586,High,Not committed,ISO 9001,Adequate,ESG Monitor,"Weakness: high carbon intensity, no PCF commitment"
+S16,Supplier_S16,Critical_Raw,PASS,0.531,Medium,Not committed,ISO 9001,Weak,ESG Monitor,"Weakness: no PCF commitment, weak labor governance"
+S31,Supplier_S31,General_Comp,LIMITED_QUALITY_TECH,,Medium,Committed,ISO 9001,Adequate,ESG Compliant,Strong across ESG dimensions
+S32,Supplier_S32,General_Comp,PASS,,Medium,Committed,ISO 9001,Adequate,ESG Compliant,Strong across ESG dimensions
+S37,Supplier_S37,General_Comp,PASS,0.434,Low,Not committed,ISO 9001,Adequate,ESG Compliant,Weakness: no PCF commitment
+S25,Supplier_S25,General_Comp,PASS,0.242,Low,Committed,IATF,Strong,ESG Leader,Strong across ESG dimensions
+S33,Supplier_S33,General_Comp,PASS,0.33,Low,Committed,ISO 9001,Strong,ESG Leader,Strong across ESG dimensions
+S34,Supplier_S34,General_Comp,PASS,0.314,Low,Committed,ISO 9001,Adequate,ESG Leader,Strong across ESG dimensions
+S23,Supplier_S23,General_Comp,PASS,0.608,High,Not committed,IATF,Adequate,ESG Monitor,"Weakness: high carbon intensity, no PCF commitment"
+S24,Supplier_S24,General_Comp,PASS,0.553,Medium,Not committed,IATF,Adequate,ESG Monitor,Weakness: no PCF commitment
+S26,Supplier_S26,General_Comp,LIMITED_QUALITY_TECH,0.646,High,Not committed,ISO 9001,Adequate,ESG Monitor,"Weakness: high carbon intensity, no PCF commitment"
+S27,Supplier_S27,General_Comp,PASS,0.536,Medium,Not committed,ISO 9001,Adequate,ESG Monitor,Weakness: no PCF commitment
+S28,Supplier_S28,General_Comp,PASS,0.603,High,Not committed,ISO 9001,Adequate,ESG Monitor,"Weakness: high carbon intensity, no PCF commitment"
+S29,Supplier_S29,General_Comp,PASS,0.593,High,Not committed,ISO 9001,Adequate,ESG Monitor,"Weakness: high carbon intensity, no PCF commitment"
+S30,Supplier_S30,General_Comp,PASS,0.462,Medium,Not committed,ISO 9001,Adequate,ESG Monitor,Weakness: no PCF commitment
+S36,Supplier_S36,General_Comp,PASS,0.613,High,Not committed,ISO 9001,Adequate,ESG Monitor,"Weakness: high carbon intensity, no PCF commitment"
+S46,Supplier_S46,General_Raw,PASS,,Medium,Committed,ISO 9001,Adequate,ESG Compliant,Strong across ESG dimensions
+S48,Supplier_S48,General_Raw,PASS,0.416,Low,Committed,ISO 9001,Strong,ESG Leader,Strong across ESG dimensions
+S38,Supplier_S38,General_Raw,PASS,0.649,High,Not committed,IATF,Adequate,ESG Monitor,"Weakness: high carbon intensity, no PCF commitment"
+S39,Supplier_S39,General_Raw,PASS,0.589,High,Not committed,ISO 9001,Adequate,ESG Monitor,"Weakness: high carbon intensity, no PCF commitment"
+S40,Supplier_S40,General_Raw,PASS,0.605,High,Not committed,ISO 9001,Adequate,ESG Monitor,"Weakness: high carbon intensity, no PCF commitment"
+S41,Supplier_S41,General_Raw,LIMITED_QUALITY_TECH,0.525,Medium,Not committed,ISO 9001,Adequate,ESG Monitor,Weakness: no PCF commitment
+S44,Supplier_S44,General_Raw,PASS,0.457,Medium,Not committed,ISO 9001,Adequate,ESG Monitor,Weakness: no PCF commitment
+S45,Supplier_S45,General_Raw,PASS,0.502,Medium,Not committed,ISO 9001,Adequate,ESG Monitor,Weakness: no PCF commitment
+S49,Supplier_S49,General_Raw,PASS,0.57,High,Committed,ISO 9001,Weak,ESG Monitor,"Weakness: high carbon intensity, weak labor governance"
+S50,Supplier_S50,General_Raw,LIMITED_ETHICS,0.606,High,Committed,ISO 9001,Weak,ESG Monitor,"Weakness: high carbon intensity, weak labor governance"
+S03,Supplier_S03,Key_Component,PASS,,Medium,Committed,IATF,Adequate,ESG Compliant,Strong across ESG dimensions
+S04,Supplier_S04,Key_Component,PASS,0.569,Medium,Committed,IATF,Adequate,ESG Compliant,Strong across ESG dimensions
+S07,Supplier_S07,Key_Component,PASS,0.572,High,Committed,IATF,Adequate,ESG Compliant,Weakness: high carbon intensity
+S10,Supplier_S10,Key_Component,LIMITED_QUALITY_TECH,0.335,Low,Not committed,ISO 9001,Strong,ESG Compliant,Weakness: no PCF commitment
+S02,Supplier_S02,Key_Component,PASS,0.293,Low,Committed,IATF,Strong,ESG Leader,Strong across ESG dimensions
+S05,Supplier_S05,Key_Component,PASS,0.318,Low,Committed,IATF,Strong,ESG Leader,Strong across ESG dimensions
+S08,Supplier_S08,Key_Component,PASS,0.415,Low,Committed,IATF,Adequate,ESG Leader,Strong across ESG dimensions
+S09,Supplier_S09,Key_Component,PASS,0.154,Low,Committed,IATF,Strong,ESG Leader,Strong across ESG dimensions
+S11,Supplier_S11,Key_Component,PASS,0.431,Low,Committed,IATF,Adequate,ESG Leader,Strong across ESG dimensions

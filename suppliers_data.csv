@@ -1,0 +1,51 @@
+﻿supplier_id,supplier_name,category,sub_category,country,city,material_service,annual_contract_value_usd,cooperation_start_date,rating,status,payment_terms,lead_time_days,cert_type,cert_expiry_year,yield_rate,defect_rate_ppm,altman_z_score,cmrt_audit,pcf_commitment,carbon_intensity,assembly_value_add,kaizen_factor,rba_audit_pass,forced_labor_risk,export_control_restricted
+S01,Supplier_S01,Key_Component,cathode,China,宁德,三元正极材料,14812000,2017-03-15,5.0,active,Net 45,6,IATF 16949,2027,0.994,6000,1.52,True,False,0.657,,0.022,True,False,False
+S02,Supplier_S02,Key_Component,separator,Japan,东京,湿法隔膜,49758000,2015-06-01,4.9,active,Net 60,19,IATF 16949,2028,0.998,2000,3.7,True,True,0.293,,0.028,True,False,False
+S05,Supplier_S05,Key_Component,electrolyte,South Korea,首尔,六氟磷酸锂,33886000,2016-09-20,4.8,active,Net 45,10,IATF 16949,2028,0.994,6000,3.5,True,True,0.318,,0.044,True,False,False
+S09,Supplier_S09,Key_Component,bms,Germany,慕尼黑,电池管理系统,53017000,2015-04-10,4.9,active,Net 60,9,IATF 16949,2028,0.997,3000,3.99,True,True,0.154,,0.041,True,False,False
+S10,Supplier_S10,Key_Component,separator,South Korea,釜山,湿法隔膜,28259000,2018-11-05,4.5,active,Net 45,22,ISO 9001,2027,0.979,21000,3.13,True,False,0.335,,0.039,True,False,False
+S03,Supplier_S03,Key_Component,cathode,China,深圳,三元正极材料,22678000,2017-08-12,4.6,active,Net 30,5,IATF 16949,2027,0.988,12000,3.04,True,True,,,0.04,True,False,False
+S04,Supplier_S04,Key_Component,electrolyte,China,上海,六氟磷酸锂,19069000,2018-02-20,4.6,active,Net 30,11,IATF 16949,2027,0.987,13000,2.83,True,True,0.569,,0.042,True,False,False
+S07,Supplier_S07,Key_Component,bms,China,长沙,电池管理系统,17433000,2018-07-01,4.5,active,Net 30,12,IATF 16949,2026,0.987,13000,2.59,True,True,0.572,,0.057,True,False,False
+S08,Supplier_S08,Key_Component,cathode,Malaysia,槟城,三元正极材料,23971000,2018-05-15,4.4,active,Net 45,9,IATF 16949,2027,0.984,16000,2.77,True,True,0.415,0.436,0.053,True,False,False
+S11,Supplier_S11,Key_Component,electrolyte,Malaysia,吉隆坡,六氟磷酸锂,19562000,2019-03-01,4.3,active,Net 45,21,IATF 16949,2026,0.981,19000,2.56,True,True,0.431,0.38,0.051,True,False,True
+S06,Supplier_S06,Key_Component,separator,China,广州,湿法隔膜,9506000,2022-09-10,3.9,active,Net 30,5,ISO 9001,2025,0.966,34000,2.25,True,True,0.657,,0.014,False,False,False
+S12,Supplier_S12,Key_Component,bms,China,宁波,电池管理系统,17309000,2017-11-20,4.6,active,Net 30,8,IATF 16949,2027,0.993,7000,2.97,False,False,0.545,,0.033,True,False,False
+S13,Supplier_S13,Critical_Raw,lithium,China,成都,碳酸锂,25574000,2018-04-01,4.4,active,Net 30,25,IATF 16949,2027,0.997,3000,2.59,True,False,0.625,,0.05,True,False,False
+S14,Supplier_S14,Critical_Raw,cobalt,China,天津,硫酸钴,20123000,2019-06-15,4.3,active,Net 30,11,ISO 9001,2026,0.975,25000,2.3,True,False,0.586,,0.004,True,False,False
+S15,Supplier_S15,Critical_Raw,lithium,Chile,圣地亚哥,碳酸锂,33360000,2019-08-20,4.4,active,Net 45,27,ISO 9001,2027,0.979,21000,2.5,True,False,0.291,,0.016,True,False,False
+S16,Supplier_S16,Critical_Raw,cobalt,South Africa,约翰内斯堡,硫酸钴,30767000,2020-03-10,4.1,active,Net 45,49,ISO 9001,2026,0.967,33000,2.16,True,False,0.531,,0.032,True,False,False
+S17,Supplier_S17,Critical_Raw,nickel,China,武汉,镍钴锰酸锂,18240000,2020-07-01,4.1,active,Net 30,22,ISO 9001,2026,0.962,38000,1.94,True,True,,,0.032,False,False,False
+S18,Supplier_S18,Critical_Raw,cobalt,DRC,卢本巴希,硫酸钴,15594000,2019-01-15,4.1,active,Net 60,55,ISO 9001,2026,0.958,42000,2.15,True,True,,,0.034,False,True,False
+S19,Supplier_S19,Critical_Raw,nickel,Indonesia,雅加达,镍钴锰酸锂,11408000,2021-05-01,4.0,active,Net 60,30,ISO 9001,2025,0.955,45000,1.94,True,True,0.5,,0.038,False,True,False
+S20,Supplier_S20,Critical_Raw,lithium,China,西安,碳酸锂,13752000,2021-11-01,3.8,active,Net 30,31,ISO 9001,2026,0.971,29000,2.07,False,True,0.628,,0.01,True,False,False
+S21,Supplier_S21,Critical_Raw,cobalt,China,合肥,硫酸钴,11997000,2022-06-01,3.7,active,Net 30,21,ISO 9001,2025,0.957,43000,1.81,False,True,0.586,,0.002,False,False,False
+S22,Supplier_S22,Critical_Raw,lithium,Malaysia,居林,碳酸锂,17602000,2020-09-01,4.0,active,Net 45,38,ISO 9001,2026,0.963,37000,1.93,True,False,0.479,0.201,0.01,False,False,False
+S23,Supplier_S23,General_Comp,thermal_management,China,厦门,导热凝胶,22576000,2018-02-01,4.4,active,Net 30,12,IATF 16949,2028,0.996,4000,3.17,True,False,0.608,,0.041,True,False,False
+S24,Supplier_S24,General_Comp,busbar,China,青岛,铜铝复合汇流排,17263000,2019-05-15,4.4,active,Net 30,12,IATF 16949,2027,0.991,9000,2.74,True,False,0.553,,0.047,True,False,False
+S25,Supplier_S25,General_Comp,connector,Japan,大阪,高压连接器,39970000,2016-11-01,4.8,active,Net 60,17,IATF 16949,2028,0.994,6000,3.53,True,True,0.242,,0.035,True,False,False
+S26,Supplier_S26,General_Comp,aluminum_shell,China,东莞,电池铝壳,12524000,2021-08-01,3.9,active,Net 30,16,ISO 9001,2025,0.929,71000,2.22,True,False,0.646,,0.01,True,False,False
+S27,Supplier_S27,General_Comp,fuse,China,佛山,高压熔断器,15240000,2019-10-20,4.3,active,Net 30,5,ISO 9001,2027,0.975,25000,2.51,True,False,0.536,,0.036,True,False,False
+S28,Supplier_S28,General_Comp,connector,China,杭州,高压连接器,14561000,2020-03-01,4.1,active,Net 30,16,ISO 9001,2026,0.969,31000,2.37,True,False,0.603,,0.035,True,False,False
+S29,Supplier_S29,General_Comp,thermal_management,China,苏州,导热凝胶,16448000,2019-06-01,4.3,active,Net 30,12,ISO 9001,2027,0.972,28000,2.53,True,False,0.593,,0.0,True,False,False
+S30,Supplier_S30,General_Comp,busbar,Malaysia,新山,铜铝复合汇流排,17283000,2020-01-15,4.2,active,Net 45,16,ISO 9001,2026,0.969,31000,2.53,True,False,0.462,0.234,0.026,True,False,False
+S31,Supplier_S31,General_Comp,connector,Malaysia,巴生,高压连接器,16339000,2020-04-01,4.0,active,Net 45,19,ISO 9001,2027,0.969,31000,2.45,True,True,,0.335,0.026,True,False,True
+S32,Supplier_S32,General_Comp,fuse,Malaysia,马六甲,高压熔断器,13431000,2020-07-01,4.0,active,Net 30,11,ISO 9001,2026,0.967,33000,2.25,True,True,,0.295,0.036,True,False,False
+S33,Supplier_S33,General_Comp,thermal_management,South Korea,釜山,导热凝胶,30884000,2018-09-01,4.5,active,Net 45,18,ISO 9001,2027,0.982,18000,3.0,True,True,0.33,,0.011,True,False,False
+S34,Supplier_S34,General_Comp,connector,USA,底特律,高压连接器,36192000,2017-12-01,4.6,active,Net 60,23,ISO 9001,2028,0.983,17000,3.59,True,True,0.314,,0.015,True,False,False
+S35,Supplier_S35,General_Comp,aluminum_shell,Indonesia,苏拉威西,电池铝壳,9515000,2022-05-01,3.9,active,Net 60,26,ISO 9001,2025,0.955,45000,1.99,True,True,0.502,,0.012,False,False,False
+S36,Supplier_S36,General_Comp,aluminum_shell,China,南京,电池铝壳,12851000,2020-11-01,4.2,active,Net 30,17,ISO 9001,2026,0.959,41000,2.23,True,False,0.613,,0.028,True,False,False
+S37,Supplier_S37,General_Comp,aluminum_shell,Malaysia,莎阿南,电池铝壳,15105000,2020-08-01,3.9,active,Net 45,13,ISO 9001,2027,0.963,37000,2.3,True,False,0.434,0.311,0.035,True,False,False
+S38,Supplier_S38,General_Raw,graphite,China,南昌,人造石墨,22433000,2019-03-01,4.3,active,Net 30,28,IATF 16949,2027,0.989,11000,2.46,True,False,0.649,,0.055,True,False,False
+S39,Supplier_S39,General_Raw,copper_foil,China,郑州,锂电铜箔,18744000,2020-02-15,4.1,active,Net 30,25,ISO 9001,2026,0.975,25000,2.26,True,False,0.589,,0.032,True,False,False
+S40,Supplier_S40,General_Raw,manganese,China,重庆,电解二氧化锰,16624000,2020-06-01,3.9,active,Net 30,11,ISO 9001,2026,0.969,31000,1.92,True,False,0.605,,0.019,True,False,False
+S41,Supplier_S41,General_Raw,recycled_material,China,沈阳,再生钴粉,14060000,2021-08-01,3.8,active,Net 30,28,ISO 9001,2025,0.966,34000,1.81,True,False,0.525,,0.014,True,False,False
+S42,Supplier_S42,General_Raw,alumina,China,芜湖,高纯氧化铝,11552000,2021-11-01,3.7,active,Net 30,12,ISO 9001,2026,0.962,38000,1.62,True,False,0.648,,0.002,True,False,False
+S43,Supplier_S43,General_Raw,zinc,China,宜春,锌粉添加剂,10031000,2022-04-01,3.6,active,Net 30,21,ISO 9001,2025,0.956,44000,1.75,True,False,0.618,,0.013,True,False,False
+S44,Supplier_S44,General_Raw,graphite,Malaysia,古晋,人造石墨,22649000,2020-05-01,4.1,active,Net 45,37,ISO 9001,2027,0.974,26000,2.22,True,False,0.457,0.254,0.033,True,False,False
+S45,Supplier_S45,General_Raw,copper_foil,Malaysia,亚庇,锂电铜箔,17836000,2020-10-01,3.8,active,Net 45,31,ISO 9001,2026,0.966,34000,2.05,True,False,0.502,0.192,0.026,True,False,False
+S46,Supplier_S46,General_Raw,manganese,Malaysia,怡保,电解二氧化锰,16728000,2021-03-01,3.8,active,Net 30,19,ISO 9001,2026,0.965,35000,2.02,True,True,,0.214,0.014,True,False,False
+S47,Supplier_S47,General_Raw,recycled_material,Malaysia,芙蓉,再生钴粉,13320000,2021-07-01,3.6,active,Net 45,31,ISO 9001,2025,0.957,43000,1.81,True,True,0.538,0.136,0.019,False,False,False
+S48,Supplier_S48,General_Raw,graphite,Australia,悉尼,人造石墨,39966000,2018-08-01,4.5,active,Net 45,37,ISO 9001,2027,0.983,17000,3.19,True,True,0.416,,0.025,True,False,False
+S49,Supplier_S49,General_Raw,manganese,South Africa,开普敦,电解二氧化锰,26727000,2020-12-01,4.0,active,Net 45,40,ISO 9001,2026,0.971,29000,2.1,True,True,0.57,,0.007,True,False,False
+S50,Supplier_S50,General_Raw,alumina,South Africa,开普敦,高纯氧化铝,21055000,2021-06-01,3.9,active,Net 45,37,ISO 9001,2026,0.962,38000,2.02,False,True,0.606,,0.016,True,False,False

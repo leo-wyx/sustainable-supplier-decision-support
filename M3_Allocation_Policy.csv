@@ -1,0 +1,5 @@
+scenario,category,max_single_supplier_share,limited_supplier_cap,min_esg_score,max_high_risk_share,diversification_rule,policy_note,teacher_confirmed
+Base,Key_Component,TBD,TBD,TBD,TBD,TBD / avoid excessive single-supplier dependence,TBD / pending professor confirmation,No
+Base,Critical_Raw,TBD,TBD,TBD,TBD,TBD / avoid excessive single-supplier dependence,TBD / pending professor confirmation,No
+Base,General_Comp,TBD,TBD,TBD,TBD,TBD / avoid excessive single-supplier dependence,TBD / pending professor confirmation,No
+Base,General_Raw,TBD,TBD,TBD,TBD,TBD / avoid excessive single-supplier dependence,TBD / pending professor confirmation,No

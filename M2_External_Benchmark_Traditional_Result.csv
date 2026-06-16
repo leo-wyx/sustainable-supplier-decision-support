@@ -1,0 +1,6 @@
+﻿supplier_id,supplier_name,paper_weighted_score,paper_reference_rank,simplified_pool,pool_reason,comparison_to_reference,directional_alignment_flag,directional_alignment_reason
+S1,Supplier 1,7.2064,3,Conditional,Cost=6; Q=7; T=9; R_avg=7.0; D=9 | adequate but no strong position,different_but_explainable,different_but_explainable,"Paper rank 3, M2 pool Conditional -- borderline case, no directional conflict"
+S2,Supplier 2,7.2977,2,Core,"Cost=7; Q=7; T=9; R_avg=7.0; D=7 | acceptable across criteria, no material weakness",aligned_recommended,aligned,"Paper rank 2, M2 pool Core -- recommended in both"
+S3,Supplier 3,8.2296,1,Preferred,"Cost=8 (top); Q=9; T=9; R_avg=7.5; D=7 | no weakness, top cost, strong Q+T",aligned_top_supplier,aligned_top,S3 is rank-1 in paper and Preferred in M2 pool -- fully aligned
+S4,Supplier 4,5.6774,4,Restricted,Cost=4; Q=5; T=7; R_avg=6.0; D=9 | weaknesses=2 (Quality+Cost),not_recommended,aligned,"Paper rank 4, M2 pool Restricted -- direction consistent"
+S5,Supplier 5,5.2617,5,Restricted,Cost=3; Q=5; T=7; R_avg=5.5; D=7 | weaknesses=2 (Quality+Cost),not_recommended,aligned,"Paper rank 5, M2 pool Restricted -- direction consistent"

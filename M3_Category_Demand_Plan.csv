@@ -1,0 +1,5 @@
+quarter,scenario,category,demand_value_usd,demand_unit,demand_source,assumption_note,confidence,teacher_confirmed
+2026Q1,Base,Key_Component,TBD,USD,TBD / external scenario input,TBD / pending professor confirmation,TBD,No
+2026Q1,Base,Critical_Raw,TBD,USD,TBD / external scenario input,TBD / pending professor confirmation,TBD,No
+2026Q1,Base,General_Comp,TBD,USD,TBD / external scenario input,TBD / pending professor confirmation,TBD,No
+2026Q1,Base,General_Raw,TBD,USD,TBD / external scenario input,TBD / pending professor confirmation,TBD,No

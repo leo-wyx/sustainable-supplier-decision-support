@@ -1,0 +1,19 @@
+scenario,category,parameter,value,unit,source,note
+Base,Key_Component,quarterly_demand_usd,10000000.0,USD,Illustrative assumption (not real enterprise data),Quarterly demand for Key_Component allocation simulation
+Base,Key_Component,capacity_S09,13254250.0,USD,annual_contract_value_usd / 4 (illustrative proxy),Conditional supplier
+Base,Key_Component,capacity_S02,12439500.0,USD,annual_contract_value_usd / 4 (illustrative proxy),Conditional supplier
+Base,Key_Component,capacity_S05,8471500.0,USD,annual_contract_value_usd / 4 (illustrative proxy),Core supplier
+Base,Key_Component,capacity_S04,4767250.0,USD,annual_contract_value_usd / 4 (illustrative proxy),Core supplier
+Base,Key_Component,capacity_S11,4890500.0,USD,annual_contract_value_usd / 4 (illustrative proxy),Preferred supplier
+Base,Key_Component,capacity_S08,5992750.0,USD,annual_contract_value_usd / 4 (illustrative proxy),Preferred supplier
+Base,Key_Component,capacity_S07,4358250.0,USD,annual_contract_value_usd / 4 (illustrative proxy),Preferred supplier
+Base,Key_Component,capacity_S03,5669500.0,USD,annual_contract_value_usd / 4 (illustrative proxy),Preferred supplier
+Base,Key_Component,capacity_S10,7064750.0,USD,annual_contract_value_usd / 4 (illustrative proxy),Restricted supplier
+Base,Key_Component,Preferred_First_max_single_share,0.45,pct_of_demand,Policy config,"Preferred allocated in cost order (cheapest first), up to 45% each; Core fills residual; Conditional capped at 10%; Restricted excluded."
+Base,Key_Component,Preferred_First_conditional_cap,0.1,pct_of_demand,Policy config,Max allocation per Conditional supplier
+Base,Key_Component,Balanced_Core_max_single_share,0.4,pct_of_demand,Policy config,Core suppliers receive a reserved allocation window (20% each) before Preferred (~60% target); Preferred fills remainder (up to 40% each). Conditional capped at 5%.  Rationale: preserve Core pool availability and reduce over-reliance on Preferred tier.
+Base,Key_Component,Balanced_Core_conditional_cap,0.05,pct_of_demand,Policy config,Max allocation per Conditional supplier
+Base,Key_Component,Cost_Minimized_max_single_share,0.4,pct_of_demand,Policy config,All non-Restricted suppliers sorted by cost index (cheapest first); Conditional capped at 5%; Restricted excluded.
+Base,Key_Component,Cost_Minimized_conditional_cap,0.05,pct_of_demand,Policy config,Max allocation per Conditional supplier
+Base,Key_Component,Risk_Controlled_max_single_share,0.4,pct_of_demand,Policy config,Low-risk suppliers allocated first (up to 40% each); medium-risk capped at 30% each; Conditional capped at 5%; high-risk and Restricted excluded.
+Base,Key_Component,Risk_Controlled_conditional_cap,0.05,pct_of_demand,Policy config,Max allocation per Conditional supplier

@@ -1,0 +1,38 @@
+﻿supplier_id,supplier_name,country,category,M1_Status,base_cost_component,logistics_cost_component,carbon_cost_component,base_cost_weight,logistics_cost_weight,carbon_cost_weight,Adjusted_Cost_Index,cost_quartile,cost_position,cost_driver_summary
+S14,Supplier_S14,China,Critical_Raw,PASS,0.0,0.5,0.8832335329341315,0.5,0.35,0.15,0.3074850299401197,Q1_Best,25.0,Carbon cost high (0.88)
+S13,Supplier_S13,China,Critical_Raw,PASS,0.41180025685578303,0.5,1.0,0.5,0.35,0.15,0.5309001284278915,Q2,50.0,Carbon cost high (1.00)
+S15,Supplier_S15,Chile,Critical_Raw,PASS,1.0,0.5,0.0,0.5,0.35,0.15,0.675,Q3,75.0,Base Cost dominant (1.00)
+S16,Supplier_S16,South Africa,Critical_Raw,PASS,0.8041096925285185,0.5,0.7185628742514972,0.5,0.35,0.15,0.6848392774019839,Q4_Worst,100.0,Base Cost dominant (0.80) | Carbon cost high (0.72)
+S37,Supplier_S37,Malaysia,General_Comp,PASS,0.09403920425562924,0.5,0.4752475247524752,0.6,0.25,0.15,0.2527106512662488,Q1_Best,7.1,Moderate cost profile
+S32,Supplier_S32,Malaysia,General_Comp,PASS,0.033046709903082415,0.5,0.7487623762376239,0.6,0.25,0.15,0.25714238237749304,Q1_Best,14.3,Carbon cost high (0.75)
+S30,Supplier_S30,Malaysia,General_Comp,PASS,0.1733950302412009,0.5,0.5445544554455446,0.6,0.25,0.15,0.31072018646155225,Q1_Best,21.4,Moderate cost profile
+S31,Supplier_S31,Malaysia,General_Comp,LIMITED_QUALITY_TECH,0.13900021861109088,0.5,0.7487623762376239,0.6,0.25,0.15,0.3207144876022981,Q1_Best,28.6,Carbon cost high (0.75)
+S36,Supplier_S36,China,General_Comp,PASS,0.011914304452379218,1.0,0.9183168316831684,0.6,0.25,0.15,0.3948961074239028,Q2,35.7,Logistics cost high (1.00) | Carbon cost high (0.92)
+S26,Supplier_S26,China,General_Comp,LIMITED_QUALITY_TECH,0.0,1.0,1.0,0.6,0.25,0.15,0.4,Q2,42.9,Logistics cost high (1.00) | Carbon cost high (1.00)
+S27,Supplier_S27,China,General_Comp,PASS,0.09895795380018946,1.0,0.7277227722772278,0.6,0.25,0.15,0.4185331881216978,Q2,50.0,Logistics cost high (1.00) | Carbon cost high (0.73)
+S28,Supplier_S28,China,General_Comp,PASS,0.0742184653501421,1.0,0.8935643564356435,0.6,0.25,0.15,0.42856573267543174,Q3,57.1,Logistics cost high (1.00) | Carbon cost high (0.89)
+S33,Supplier_S33,South Korea,General_Comp,PASS,0.6689499380601909,0.0,0.2178217821782179,0.6,0.25,0.15,0.43404323016284724,Q3,64.3,Moderate cost profile
+S29,Supplier_S29,China,General_Comp,PASS,0.14297165342855062,1.0,0.8688118811881188,0.6,0.25,0.15,0.4661047742353482,Q3,71.4,Logistics cost high (1.00) | Carbon cost high (0.87)
+S24,Supplier_S24,China,General_Comp,PASS,0.17266632660496975,1.0,0.7698019801980198,0.6,0.25,0.15,0.4690700929926848,Q4_Worst,78.6,Logistics cost high (1.00) | Carbon cost high (0.77)
+S25,Supplier_S25,Japan,General_Comp,PASS,1.0,0.0,0.0,0.6,0.25,0.15,0.6,Q4_Worst,85.7,Base Cost dominant (1.00)
+S23,Supplier_S23,China,General_Comp,PASS,0.36624644756977337,1.0,0.905940594059406,0.6,0.25,0.15,0.6056389576507749,Q4_Worst,92.9,Logistics cost high (1.00) | Carbon cost high (0.91)
+S34,Supplier_S34,USA,General_Comp,PASS,0.8623478831159368,0.5,0.17821782178217827,0.6,0.25,0.15,0.6691414031368889,Q4_Worst,100.0,Base Cost dominant (0.86)
+S45,Supplier_S45,Malaysia,General_Raw,PASS,0.14575773951980237,0.0,0.3690987124463517,0.6,0.25,0.15,0.14281945057883416,Q1_Best,10.0,Overall low cost (bottom quartile)
+S46,Supplier_S46,Malaysia,General_Raw,PASS,0.10298772485138578,0.0,0.6609442060085833,0.6,0.25,0.15,0.16093426581211895,Q1_Best,20.0,Overall low cost (bottom quartile)
+S44,Supplier_S44,Malaysia,General_Raw,PASS,0.3315448158727708,0.0,0.17596566523605156,0.6,0.25,0.15,0.2253217393090702,Q1_Best,30.0,Overall low cost (bottom quartile)
+S41,Supplier_S41,China,General_Raw,LIMITED_QUALITY_TECH,0.0,1.0,0.46781115879828317,0.6,0.25,0.15,0.3201716738197425,Q2,40.0,Logistics cost high (1.00)
+S40,Supplier_S40,China,General_Raw,PASS,0.09897321083918784,1.0,0.8111587982832617,0.6,0.25,0.15,0.43105774624600196,Q2,50.0,Logistics cost high (1.00) | Carbon cost high (0.81)
+S39,Supplier_S39,China,General_Raw,PASS,0.18080753493399213,1.0,0.7424892703862659,0.6,0.25,0.15,0.46985791151833517,Q3,60.0,Logistics cost high (1.00) | Carbon cost high (0.74)
+S50,Supplier_S50,South Africa,General_Raw,LIMITED_ETHICS,0.270014668416583,1.0,0.8154506437768237,0.6,0.25,0.15,0.5343263976164734,Q3,70.0,Logistics cost high (1.00) | Carbon cost high (0.82)
+S38,Supplier_S38,China,General_Raw,PASS,0.32320697907820584,1.0,1.0,0.6,0.25,0.15,0.5939241874469235,Q4_Worst,80.0,Logistics cost high (1.00) | Carbon cost high (1.00)
+S48,Supplier_S48,Australia,General_Raw,PASS,1.0,0.0,0.0,0.6,0.25,0.15,0.6,Q4_Worst,90.0,Base Cost dominant (1.00)
+S49,Supplier_S49,South Africa,General_Raw,PASS,0.48896008646645567,1.0,0.6609442060085833,0.6,0.25,0.15,0.6425176827811608,Q4_Worst,100.0,Logistics cost high (1.00)
+S11,Supplier_S11,Malaysia,Key_Component,PASS,0.059830260791366906,0.6666666666666666,0.6626794258373205,0.6,0.25,0.15,0.3019667370170849,Q1_Best,11.1,Moderate cost profile
+S10,Supplier_S10,South Korea,Key_Component,LIMITED_QUALITY_TECH,0.3042378597122302,0.3333333333333333,0.4330143540669857,0.6,0.25,0.15,0.3308282022707193,Q1_Best,22.2,Moderate cost profile
+S08,Supplier_S08,Malaysia,Key_Component,PASS,0.18373426258992806,0.6666666666666666,0.624401913875598,0.6,0.25,0.15,0.3705675113019632,Q1_Best,33.3,Moderate cost profile
+S07,Supplier_S07,China,Key_Component,PASS,0.0,1.0,1.0,0.6,0.25,0.15,0.4,Q2,44.4,Logistics cost high (1.00) | Carbon cost high (1.00)
+S03,Supplier_S03,China,Key_Component,PASS,0.14739770683453238,1.0,0.5287081339712919,0.6,0.25,0.15,0.4177448441964132,Q2,55.6,Logistics cost high (1.00)
+S05,Supplier_S05,South Korea,Key_Component,PASS,0.4623707284172662,0.3333333333333333,0.39234449760765555,0.6,0.25,0.15,0.4196074450248413,Q3,66.7,Moderate cost profile
+S04,Supplier_S04,China,Key_Component,PASS,0.04597571942446043,1.0,0.9928229665071769,0.6,0.25,0.15,0.42650887663075276,Q3,77.8,Logistics cost high (1.00) | Carbon cost high (0.99)
+S09,Supplier_S09,Germany,Key_Component,PASS,1.0,0.0,0.0,0.6,0.25,0.15,0.6,Q4_Worst,88.9,Base Cost dominant (1.00)
+S02,Supplier_S02,Japan,Key_Component,PASS,0.9084138938848921,0.3333333333333333,0.3325358851674641,0.6,0.25,0.15,0.6782620524393883,Q4_Worst,100.0,Base Cost dominant (0.91)

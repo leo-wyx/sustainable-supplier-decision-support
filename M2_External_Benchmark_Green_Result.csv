@@ -1,0 +1,11 @@
+supplier_id,paper_priority_weight,paper_reference_rank,recomputed_green_score,recomputed_rank,simplified_green_pool,weak_criteria_count,pool_reason,directional_alignment_flag,directional_alignment_reason
+A1,0.045160184,10,0.04549,10,Restricted,17,weak_count=17 > 6 and rank 10/10 is bottom 20%,aligned,Paper rank 10 (bottom 3) maps to pool 'Restricted'
+A2,0.085719968,6,0.086756,6,Restricted,10,weak_count=10 > 6,different_but_explainable,Paper rank 6 maps to pool 'Restricted'
+A3,0.142575751,2,0.143752,2,Preferred,0,"Rank 2/10 (top 20%), weak_count=0 <= 2",aligned,Paper rank 2 (top 3) maps to pool 'Preferred'
+A4,0.133879945,4,0.135057,4,Core,0,"Rank 4/10, weak_count=0 <= 4",different_but_explainable,Paper rank 4 maps to pool 'Core'
+A5,0.139751705,3,0.141128,3,Core,0,"Rank 3/10, weak_count=0 <= 4",aligned,Paper rank 3 (top 3) maps to pool 'Core'
+A6,0.055451385,9,0.056486,9,Restricted,14,weak_count=14 > 6 and rank 9/10 is bottom 20%,aligned,Paper rank 9 (bottom 3) maps to pool 'Restricted'
+A7,0.09013347,5,0.0906,5,Conditional,5,"Rank 5/10, weak_count=5 <= 6",different_but_explainable,Paper rank 5 maps to pool 'Conditional'
+A8,0.067102487,8,0.067878,8,Restricted,13,weak_count=13 > 6,aligned,Paper rank 8 (bottom 3) maps to pool 'Restricted'
+A9,0.072508278,7,0.072685,7,Restricted,11,weak_count=11 > 6,different_but_explainable,Paper rank 7 maps to pool 'Restricted'
+A10,0.159988728,1,0.160167,1,Preferred,1,"Rank 1/10 (top 20%), weak_count=1 <= 2",aligned,Paper rank 1 (top 3) maps to pool 'Preferred'

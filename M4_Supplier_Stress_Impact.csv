@@ -1,0 +1,149 @@
+scenario,policy,supplier_id,supplier_name,base_pool,scenario_pool,capacity_change_pct,cost_change_pct,allocation_change_total,stress_reason
+Demand_Surge_50,Preferred_First,S11,Supplier_S11,Preferred,Preferred,0.0,0.0,390500.0,Demand surge +50%: $10M to $15M
+Demand_Surge_50,Preferred_First,S08,Supplier_S08,Preferred,Preferred,0.0,0.0,1492750.0,Demand surge +50%: $10M to $15M
+Demand_Surge_50,Preferred_First,S07,Supplier_S07,Preferred,Preferred,0.0,0.0,3116750.0,Demand surge +50%: $10M to $15M
+Demand_Surge_50,Preferred_First,S03,Supplier_S03,Preferred,Preferred,0.0,0.0,0.0,Demand surge +50%: $10M to $15M
+Demand_Surge_50,Preferred_First,S05,Supplier_S05,Core,Core,0.0,0.0,0.0,Demand surge +50%: $10M to $15M
+Demand_Surge_50,Preferred_First,S04,Supplier_S04,Core,Core,0.0,0.0,0.0,Demand surge +50%: $10M to $15M
+Demand_Surge_50,Preferred_First,S09,Supplier_S09,Conditional,Conditional,0.0,0.0,0.0,Demand surge +50%: $10M to $15M
+Demand_Surge_50,Preferred_First,S02,Supplier_S02,Conditional,Conditional,0.0,0.0,0.0,Demand surge +50%: $10M to $15M
+Demand_Surge_50,Preferred_First,S10,Supplier_S10,Restricted,Restricted,0.0,0.0,0.0,Demand surge +50%: $10M to $15M
+Demand_Surge_50,Balanced_Core,S05,Supplier_S05,Core,Core,0.0,0.0,1000000.0,Demand surge +50%: $10M to $15M
+Demand_Surge_50,Balanced_Core,S04,Supplier_S04,Core,Core,0.0,0.0,1000000.0,Demand surge +50%: $10M to $15M
+Demand_Surge_50,Balanced_Core,S11,Supplier_S11,Preferred,Preferred,0.0,0.0,890500.0,Demand surge +50%: $10M to $15M
+Demand_Surge_50,Balanced_Core,S08,Supplier_S08,Preferred,Preferred,0.0,0.0,2109500.0,Demand surge +50%: $10M to $15M
+Demand_Surge_50,Balanced_Core,S07,Supplier_S07,Preferred,Preferred,0.0,0.0,0.0,Demand surge +50%: $10M to $15M
+Demand_Surge_50,Balanced_Core,S03,Supplier_S03,Preferred,Preferred,0.0,0.0,0.0,Demand surge +50%: $10M to $15M
+Demand_Surge_50,Balanced_Core,S09,Supplier_S09,Conditional,Conditional,0.0,0.0,0.0,Demand surge +50%: $10M to $15M
+Demand_Surge_50,Balanced_Core,S02,Supplier_S02,Conditional,Conditional,0.0,0.0,0.0,Demand surge +50%: $10M to $15M
+Demand_Surge_50,Balanced_Core,S10,Supplier_S10,Restricted,Restricted,0.0,0.0,0.0,Demand surge +50%: $10M to $15M
+Demand_Surge_50,Cost_Minimized,S11,Supplier_S11,Preferred,Preferred,0.0,0.0,890500.0,Demand surge +50%: $10M to $15M
+Demand_Surge_50,Cost_Minimized,S10,Supplier_S10,Restricted,Restricted,0.0,0.0,0.0,Demand surge +50%: $10M to $15M
+Demand_Surge_50,Cost_Minimized,S08,Supplier_S08,Preferred,Preferred,0.0,0.0,1992750.0,Demand surge +50%: $10M to $15M
+Demand_Surge_50,Cost_Minimized,S07,Supplier_S07,Preferred,Preferred,0.0,0.0,2116750.0,Demand surge +50%: $10M to $15M
+Demand_Surge_50,Cost_Minimized,S03,Supplier_S03,Preferred,Preferred,0.0,0.0,0.0,Demand surge +50%: $10M to $15M
+Demand_Surge_50,Cost_Minimized,S05,Supplier_S05,Core,Core,0.0,0.0,0.0,Demand surge +50%: $10M to $15M
+Demand_Surge_50,Cost_Minimized,S04,Supplier_S04,Core,Core,0.0,0.0,0.0,Demand surge +50%: $10M to $15M
+Demand_Surge_50,Cost_Minimized,S09,Supplier_S09,Conditional,Conditional,0.0,0.0,0.0,Demand surge +50%: $10M to $15M
+Demand_Surge_50,Cost_Minimized,S02,Supplier_S02,Conditional,Conditional,0.0,0.0,0.0,Demand surge +50%: $10M to $15M
+Demand_Surge_50,Risk_Controlled,S05,Supplier_S05,Core,Core,0.0,0.0,2000000.0,Demand surge +50%: $10M to $15M
+Demand_Surge_50,Risk_Controlled,S09,Supplier_S09,Conditional,Conditional,0.0,0.0,250000.0,Demand surge +50%: $10M to $15M
+Demand_Surge_50,Risk_Controlled,S02,Supplier_S02,Conditional,Conditional,0.0,0.0,250000.0,Demand surge +50%: $10M to $15M
+Demand_Surge_50,Risk_Controlled,S11,Supplier_S11,Preferred,Preferred,0.0,0.0,1500000.0,Demand surge +50%: $10M to $15M
+Demand_Surge_50,Risk_Controlled,S10,Supplier_S10,Restricted,Restricted,0.0,0.0,0.0,Demand surge +50%: $10M to $15M
+Demand_Surge_50,Risk_Controlled,S08,Supplier_S08,Preferred,Preferred,0.0,0.0,1000000.0,Demand surge +50%: $10M to $15M
+Demand_Surge_50,Risk_Controlled,S07,Supplier_S07,Preferred,Preferred,0.0,0.0,0.0,Demand surge +50%: $10M to $15M
+Demand_Surge_50,Risk_Controlled,S03,Supplier_S03,Preferred,Preferred,0.0,0.0,0.0,Demand surge +50%: $10M to $15M
+Demand_Surge_50,Risk_Controlled,S04,Supplier_S04,Core,Core,0.0,0.0,0.0,Demand surge +50%: $10M to $15M
+Preferred_Disruption,Preferred_First,S11,Supplier_S11,Preferred,Preferred,-70.0,0.0,-3032850.0,Preferred disruption: S11 capacity -70%
+Preferred_Disruption,Preferred_First,S08,Supplier_S08,Preferred,Preferred,0.0,0.0,0.0,Preferred disruption: S11 capacity -70%
+Preferred_Disruption,Preferred_First,S07,Supplier_S07,Preferred,Preferred,0.0,0.0,3032850.0,Preferred disruption: S11 capacity -70%
+Preferred_Disruption,Preferred_First,S03,Supplier_S03,Preferred,Preferred,0.0,0.0,0.0,Preferred disruption: S11 capacity -70%
+Preferred_Disruption,Preferred_First,S05,Supplier_S05,Core,Core,0.0,0.0,0.0,Preferred disruption: S11 capacity -70%
+Preferred_Disruption,Preferred_First,S04,Supplier_S04,Core,Core,0.0,0.0,0.0,Preferred disruption: S11 capacity -70%
+Preferred_Disruption,Preferred_First,S09,Supplier_S09,Conditional,Conditional,0.0,0.0,0.0,Preferred disruption: S11 capacity -70%
+Preferred_Disruption,Preferred_First,S02,Supplier_S02,Conditional,Conditional,0.0,0.0,0.0,Preferred disruption: S11 capacity -70%
+Preferred_Disruption,Preferred_First,S10,Supplier_S10,Restricted,Restricted,0.0,0.0,0.0,Preferred disruption: S11 capacity -70%
+Preferred_Disruption,Balanced_Core,S05,Supplier_S05,Core,Core,0.0,0.0,0.0,Preferred disruption: S11 capacity -70%
+Preferred_Disruption,Balanced_Core,S04,Supplier_S04,Core,Core,0.0,0.0,0.0,Preferred disruption: S11 capacity -70%
+Preferred_Disruption,Balanced_Core,S11,Supplier_S11,Preferred,Preferred,-70.0,0.0,-2532850.0,Preferred disruption: S11 capacity -70%
+Preferred_Disruption,Balanced_Core,S08,Supplier_S08,Preferred,Preferred,0.0,0.0,2000000.0,Preferred disruption: S11 capacity -70%
+Preferred_Disruption,Balanced_Core,S07,Supplier_S07,Preferred,Preferred,0.0,0.0,532850.0,Preferred disruption: S11 capacity -70%
+Preferred_Disruption,Balanced_Core,S03,Supplier_S03,Preferred,Preferred,0.0,0.0,0.0,Preferred disruption: S11 capacity -70%
+Preferred_Disruption,Balanced_Core,S09,Supplier_S09,Conditional,Conditional,0.0,0.0,0.0,Preferred disruption: S11 capacity -70%
+Preferred_Disruption,Balanced_Core,S02,Supplier_S02,Conditional,Conditional,0.0,0.0,0.0,Preferred disruption: S11 capacity -70%
+Preferred_Disruption,Balanced_Core,S10,Supplier_S10,Restricted,Restricted,0.0,0.0,0.0,Preferred disruption: S11 capacity -70%
+Preferred_Disruption,Cost_Minimized,S11,Supplier_S11,Preferred,Preferred,-70.0,0.0,-2532850.0,Preferred disruption: S11 capacity -70%
+Preferred_Disruption,Cost_Minimized,S10,Supplier_S10,Restricted,Restricted,0.0,0.0,0.0,Preferred disruption: S11 capacity -70%
+Preferred_Disruption,Cost_Minimized,S08,Supplier_S08,Preferred,Preferred,0.0,0.0,0.0,Preferred disruption: S11 capacity -70%
+Preferred_Disruption,Cost_Minimized,S07,Supplier_S07,Preferred,Preferred,0.0,0.0,2000000.0,Preferred disruption: S11 capacity -70%
+Preferred_Disruption,Cost_Minimized,S03,Supplier_S03,Preferred,Preferred,0.0,0.0,532850.0,Preferred disruption: S11 capacity -70%
+Preferred_Disruption,Cost_Minimized,S05,Supplier_S05,Core,Core,0.0,0.0,0.0,Preferred disruption: S11 capacity -70%
+Preferred_Disruption,Cost_Minimized,S04,Supplier_S04,Core,Core,0.0,0.0,0.0,Preferred disruption: S11 capacity -70%
+Preferred_Disruption,Cost_Minimized,S09,Supplier_S09,Conditional,Conditional,0.0,0.0,0.0,Preferred disruption: S11 capacity -70%
+Preferred_Disruption,Cost_Minimized,S02,Supplier_S02,Conditional,Conditional,0.0,0.0,0.0,Preferred disruption: S11 capacity -70%
+Preferred_Disruption,Risk_Controlled,S05,Supplier_S05,Core,Core,0.0,0.0,0.0,Preferred disruption: S11 capacity -70%
+Preferred_Disruption,Risk_Controlled,S09,Supplier_S09,Conditional,Conditional,0.0,0.0,0.0,Preferred disruption: S11 capacity -70%
+Preferred_Disruption,Risk_Controlled,S02,Supplier_S02,Conditional,Conditional,0.0,0.0,0.0,Preferred disruption: S11 capacity -70%
+Preferred_Disruption,Risk_Controlled,S11,Supplier_S11,Preferred,Preferred,-70.0,0.0,-1532850.0,Preferred disruption: S11 capacity -70%
+Preferred_Disruption,Risk_Controlled,S10,Supplier_S10,Restricted,Restricted,0.0,0.0,0.0,Preferred disruption: S11 capacity -70%
+Preferred_Disruption,Risk_Controlled,S08,Supplier_S08,Preferred,Preferred,0.0,0.0,1000000.0,Preferred disruption: S11 capacity -70%
+Preferred_Disruption,Risk_Controlled,S07,Supplier_S07,Preferred,Preferred,0.0,0.0,532850.0,Preferred disruption: S11 capacity -70%
+Preferred_Disruption,Risk_Controlled,S03,Supplier_S03,Preferred,Preferred,0.0,0.0,0.0,Preferred disruption: S11 capacity -70%
+Preferred_Disruption,Risk_Controlled,S04,Supplier_S04,Core,Core,0.0,0.0,0.0,Preferred disruption: S11 capacity -70%
+EU_Carbon_Pressure,Preferred_First,S11,Supplier_S11,Preferred,Preferred,0.0,15.0,0.0,"EU carbon pressure: cost +15% on S04, S11, S08, S07, S03; non-ESG-Leader pool downgrade"
+EU_Carbon_Pressure,Preferred_First,S08,Supplier_S08,Preferred,Preferred,0.0,15.0,0.0,"EU carbon pressure: cost +15% on S04, S11, S08, S07, S03; non-ESG-Leader pool downgrade"
+EU_Carbon_Pressure,Preferred_First,S05,Supplier_S05,Core,Core,0.0,0.0,1000000.0,"EU carbon pressure: cost +15% on S04, S11, S08, S07, S03; non-ESG-Leader pool downgrade"
+EU_Carbon_Pressure,Preferred_First,S07,Supplier_S07,Preferred,Core,0.0,15.0,-1000000.0,"EU carbon pressure: cost +15% on S04, S11, S08, S07, S03; non-ESG-Leader pool downgrade"
+EU_Carbon_Pressure,Preferred_First,S03,Supplier_S03,Preferred,Core,0.0,15.0,0.0,"EU carbon pressure: cost +15% on S04, S11, S08, S07, S03; non-ESG-Leader pool downgrade"
+EU_Carbon_Pressure,Preferred_First,S04,Supplier_S04,Core,Conditional,0.0,15.0,0.0,"EU carbon pressure: cost +15% on S04, S11, S08, S07, S03; non-ESG-Leader pool downgrade"
+EU_Carbon_Pressure,Preferred_First,S09,Supplier_S09,Conditional,Conditional,0.0,0.0,0.0,"EU carbon pressure: cost +15% on S04, S11, S08, S07, S03; non-ESG-Leader pool downgrade"
+EU_Carbon_Pressure,Preferred_First,S02,Supplier_S02,Conditional,Conditional,0.0,0.0,0.0,"EU carbon pressure: cost +15% on S04, S11, S08, S07, S03; non-ESG-Leader pool downgrade"
+EU_Carbon_Pressure,Preferred_First,S10,Supplier_S10,Restricted,Restricted,0.0,0.0,0.0,"EU carbon pressure: cost +15% on S04, S11, S08, S07, S03; non-ESG-Leader pool downgrade"
+EU_Carbon_Pressure,Balanced_Core,S05,Supplier_S05,Core,Core,0.0,0.0,0.0,"EU carbon pressure: cost +15% on S04, S11, S08, S07, S03; non-ESG-Leader pool downgrade"
+EU_Carbon_Pressure,Balanced_Core,S07,Supplier_S07,Preferred,Core,0.0,15.0,2000000.0,"EU carbon pressure: cost +15% on S04, S11, S08, S07, S03; non-ESG-Leader pool downgrade"
+EU_Carbon_Pressure,Balanced_Core,S03,Supplier_S03,Preferred,Core,0.0,15.0,2000000.0,"EU carbon pressure: cost +15% on S04, S11, S08, S07, S03; non-ESG-Leader pool downgrade"
+EU_Carbon_Pressure,Balanced_Core,S11,Supplier_S11,Preferred,Preferred,0.0,15.0,0.0,"EU carbon pressure: cost +15% on S04, S11, S08, S07, S03; non-ESG-Leader pool downgrade"
+EU_Carbon_Pressure,Balanced_Core,S08,Supplier_S08,Preferred,Preferred,0.0,15.0,-2000000.0,"EU carbon pressure: cost +15% on S04, S11, S08, S07, S03; non-ESG-Leader pool downgrade"
+EU_Carbon_Pressure,Balanced_Core,S04,Supplier_S04,Core,Conditional,0.0,15.0,-2000000.0,"EU carbon pressure: cost +15% on S04, S11, S08, S07, S03; non-ESG-Leader pool downgrade"
+EU_Carbon_Pressure,Balanced_Core,S09,Supplier_S09,Conditional,Conditional,0.0,0.0,0.0,"EU carbon pressure: cost +15% on S04, S11, S08, S07, S03; non-ESG-Leader pool downgrade"
+EU_Carbon_Pressure,Balanced_Core,S02,Supplier_S02,Conditional,Conditional,0.0,0.0,0.0,"EU carbon pressure: cost +15% on S04, S11, S08, S07, S03; non-ESG-Leader pool downgrade"
+EU_Carbon_Pressure,Balanced_Core,S10,Supplier_S10,Restricted,Restricted,0.0,0.0,0.0,"EU carbon pressure: cost +15% on S04, S11, S08, S07, S03; non-ESG-Leader pool downgrade"
+EU_Carbon_Pressure,Cost_Minimized,S10,Supplier_S10,Restricted,Restricted,0.0,0.0,0.0,"EU carbon pressure: cost +15% on S04, S11, S08, S07, S03; non-ESG-Leader pool downgrade"
+EU_Carbon_Pressure,Cost_Minimized,S11,Supplier_S11,Preferred,Preferred,0.0,15.0,0.0,"EU carbon pressure: cost +15% on S04, S11, S08, S07, S03; non-ESG-Leader pool downgrade"
+EU_Carbon_Pressure,Cost_Minimized,S05,Supplier_S05,Core,Core,0.0,0.0,4000000.0,"EU carbon pressure: cost +15% on S04, S11, S08, S07, S03; non-ESG-Leader pool downgrade"
+EU_Carbon_Pressure,Cost_Minimized,S08,Supplier_S08,Preferred,Preferred,0.0,15.0,-2000000.0,"EU carbon pressure: cost +15% on S04, S11, S08, S07, S03; non-ESG-Leader pool downgrade"
+EU_Carbon_Pressure,Cost_Minimized,S07,Supplier_S07,Preferred,Core,0.0,15.0,-2000000.0,"EU carbon pressure: cost +15% on S04, S11, S08, S07, S03; non-ESG-Leader pool downgrade"
+EU_Carbon_Pressure,Cost_Minimized,S03,Supplier_S03,Preferred,Core,0.0,15.0,0.0,"EU carbon pressure: cost +15% on S04, S11, S08, S07, S03; non-ESG-Leader pool downgrade"
+EU_Carbon_Pressure,Cost_Minimized,S04,Supplier_S04,Core,Conditional,0.0,15.0,0.0,"EU carbon pressure: cost +15% on S04, S11, S08, S07, S03; non-ESG-Leader pool downgrade"
+EU_Carbon_Pressure,Cost_Minimized,S09,Supplier_S09,Conditional,Conditional,0.0,0.0,0.0,"EU carbon pressure: cost +15% on S04, S11, S08, S07, S03; non-ESG-Leader pool downgrade"
+EU_Carbon_Pressure,Cost_Minimized,S02,Supplier_S02,Conditional,Conditional,0.0,0.0,0.0,"EU carbon pressure: cost +15% on S04, S11, S08, S07, S03; non-ESG-Leader pool downgrade"
+EU_Carbon_Pressure,Risk_Controlled,S05,Supplier_S05,Core,Core,0.0,0.0,0.0,"EU carbon pressure: cost +15% on S04, S11, S08, S07, S03; non-ESG-Leader pool downgrade"
+EU_Carbon_Pressure,Risk_Controlled,S09,Supplier_S09,Conditional,Conditional,0.0,0.0,0.0,"EU carbon pressure: cost +15% on S04, S11, S08, S07, S03; non-ESG-Leader pool downgrade"
+EU_Carbon_Pressure,Risk_Controlled,S02,Supplier_S02,Conditional,Conditional,0.0,0.0,0.0,"EU carbon pressure: cost +15% on S04, S11, S08, S07, S03; non-ESG-Leader pool downgrade"
+EU_Carbon_Pressure,Risk_Controlled,S10,Supplier_S10,Restricted,Restricted,0.0,0.0,0.0,"EU carbon pressure: cost +15% on S04, S11, S08, S07, S03; non-ESG-Leader pool downgrade"
+EU_Carbon_Pressure,Risk_Controlled,S11,Supplier_S11,Preferred,Preferred,0.0,15.0,0.0,"EU carbon pressure: cost +15% on S04, S11, S08, S07, S03; non-ESG-Leader pool downgrade"
+EU_Carbon_Pressure,Risk_Controlled,S08,Supplier_S08,Preferred,Preferred,0.0,15.0,0.0,"EU carbon pressure: cost +15% on S04, S11, S08, S07, S03; non-ESG-Leader pool downgrade"
+EU_Carbon_Pressure,Risk_Controlled,S07,Supplier_S07,Preferred,Core,0.0,15.0,0.0,"EU carbon pressure: cost +15% on S04, S11, S08, S07, S03; non-ESG-Leader pool downgrade"
+EU_Carbon_Pressure,Risk_Controlled,S03,Supplier_S03,Preferred,Core,0.0,15.0,0.0,"EU carbon pressure: cost +15% on S04, S11, S08, S07, S03; non-ESG-Leader pool downgrade"
+EU_Carbon_Pressure,Risk_Controlled,S04,Supplier_S04,Core,Conditional,0.0,15.0,0.0,"EU carbon pressure: cost +15% on S04, S11, S08, S07, S03; non-ESG-Leader pool downgrade"
+Malaysia_Backup_Node,Preferred_First,S11,Supplier_S11,Preferred,Preferred,0.0,0.0,0.0,"Malaysia backup node added: MY_Backup_Node (Core, cost=0.4442, capacity=$4M)"
+Malaysia_Backup_Node,Preferred_First,S08,Supplier_S08,Preferred,Preferred,0.0,0.0,0.0,"Malaysia backup node added: MY_Backup_Node (Core, cost=0.4442, capacity=$4M)"
+Malaysia_Backup_Node,Preferred_First,S07,Supplier_S07,Preferred,Preferred,0.0,0.0,0.0,"Malaysia backup node added: MY_Backup_Node (Core, cost=0.4442, capacity=$4M)"
+Malaysia_Backup_Node,Preferred_First,S03,Supplier_S03,Preferred,Preferred,0.0,0.0,0.0,"Malaysia backup node added: MY_Backup_Node (Core, cost=0.4442, capacity=$4M)"
+Malaysia_Backup_Node,Preferred_First,S05,Supplier_S05,Core,Core,0.0,0.0,0.0,"Malaysia backup node added: MY_Backup_Node (Core, cost=0.4442, capacity=$4M)"
+Malaysia_Backup_Node,Preferred_First,S04,Supplier_S04,Core,Core,0.0,0.0,0.0,"Malaysia backup node added: MY_Backup_Node (Core, cost=0.4442, capacity=$4M)"
+Malaysia_Backup_Node,Preferred_First,MY_Backup_Node,MY_Backup_Node,Core,Core,0.0,0.0,0.0,"Malaysia backup node added: MY_Backup_Node (Core, cost=0.4442, capacity=$4M)"
+Malaysia_Backup_Node,Preferred_First,S09,Supplier_S09,Conditional,Conditional,0.0,0.0,0.0,"Malaysia backup node added: MY_Backup_Node (Core, cost=0.4442, capacity=$4M)"
+Malaysia_Backup_Node,Preferred_First,S02,Supplier_S02,Conditional,Conditional,0.0,0.0,0.0,"Malaysia backup node added: MY_Backup_Node (Core, cost=0.4442, capacity=$4M)"
+Malaysia_Backup_Node,Preferred_First,S10,Supplier_S10,Restricted,Restricted,0.0,0.0,0.0,"Malaysia backup node added: MY_Backup_Node (Core, cost=0.4442, capacity=$4M)"
+Malaysia_Backup_Node,Balanced_Core,S05,Supplier_S05,Core,Core,0.0,0.0,0.0,"Malaysia backup node added: MY_Backup_Node (Core, cost=0.4442, capacity=$4M)"
+Malaysia_Backup_Node,Balanced_Core,S04,Supplier_S04,Core,Core,0.0,0.0,0.0,"Malaysia backup node added: MY_Backup_Node (Core, cost=0.4442, capacity=$4M)"
+Malaysia_Backup_Node,Balanced_Core,MY_Backup_Node,MY_Backup_Node,Core,Core,0.0,0.0,2000000.0,"Malaysia backup node added: MY_Backup_Node (Core, cost=0.4442, capacity=$4M)"
+Malaysia_Backup_Node,Balanced_Core,S11,Supplier_S11,Preferred,Preferred,0.0,0.0,0.0,"Malaysia backup node added: MY_Backup_Node (Core, cost=0.4442, capacity=$4M)"
+Malaysia_Backup_Node,Balanced_Core,S08,Supplier_S08,Preferred,Preferred,0.0,0.0,-2000000.0,"Malaysia backup node added: MY_Backup_Node (Core, cost=0.4442, capacity=$4M)"
+Malaysia_Backup_Node,Balanced_Core,S07,Supplier_S07,Preferred,Preferred,0.0,0.0,0.0,"Malaysia backup node added: MY_Backup_Node (Core, cost=0.4442, capacity=$4M)"
+Malaysia_Backup_Node,Balanced_Core,S03,Supplier_S03,Preferred,Preferred,0.0,0.0,0.0,"Malaysia backup node added: MY_Backup_Node (Core, cost=0.4442, capacity=$4M)"
+Malaysia_Backup_Node,Balanced_Core,S09,Supplier_S09,Conditional,Conditional,0.0,0.0,0.0,"Malaysia backup node added: MY_Backup_Node (Core, cost=0.4442, capacity=$4M)"
+Malaysia_Backup_Node,Balanced_Core,S02,Supplier_S02,Conditional,Conditional,0.0,0.0,0.0,"Malaysia backup node added: MY_Backup_Node (Core, cost=0.4442, capacity=$4M)"
+Malaysia_Backup_Node,Balanced_Core,S10,Supplier_S10,Restricted,Restricted,0.0,0.0,0.0,"Malaysia backup node added: MY_Backup_Node (Core, cost=0.4442, capacity=$4M)"
+Malaysia_Backup_Node,Cost_Minimized,S11,Supplier_S11,Preferred,Preferred,0.0,0.0,0.0,"Malaysia backup node added: MY_Backup_Node (Core, cost=0.4442, capacity=$4M)"
+Malaysia_Backup_Node,Cost_Minimized,S10,Supplier_S10,Restricted,Restricted,0.0,0.0,0.0,"Malaysia backup node added: MY_Backup_Node (Core, cost=0.4442, capacity=$4M)"
+Malaysia_Backup_Node,Cost_Minimized,S08,Supplier_S08,Preferred,Preferred,0.0,0.0,0.0,"Malaysia backup node added: MY_Backup_Node (Core, cost=0.4442, capacity=$4M)"
+Malaysia_Backup_Node,Cost_Minimized,S07,Supplier_S07,Preferred,Preferred,0.0,0.0,0.0,"Malaysia backup node added: MY_Backup_Node (Core, cost=0.4442, capacity=$4M)"
+Malaysia_Backup_Node,Cost_Minimized,S03,Supplier_S03,Preferred,Preferred,0.0,0.0,0.0,"Malaysia backup node added: MY_Backup_Node (Core, cost=0.4442, capacity=$4M)"
+Malaysia_Backup_Node,Cost_Minimized,S05,Supplier_S05,Core,Core,0.0,0.0,0.0,"Malaysia backup node added: MY_Backup_Node (Core, cost=0.4442, capacity=$4M)"
+Malaysia_Backup_Node,Cost_Minimized,S04,Supplier_S04,Core,Core,0.0,0.0,0.0,"Malaysia backup node added: MY_Backup_Node (Core, cost=0.4442, capacity=$4M)"
+Malaysia_Backup_Node,Cost_Minimized,MY_Backup_Node,MY_Backup_Node,Core,Core,0.0,0.0,0.0,"Malaysia backup node added: MY_Backup_Node (Core, cost=0.4442, capacity=$4M)"
+Malaysia_Backup_Node,Cost_Minimized,S09,Supplier_S09,Conditional,Conditional,0.0,0.0,0.0,"Malaysia backup node added: MY_Backup_Node (Core, cost=0.4442, capacity=$4M)"
+Malaysia_Backup_Node,Cost_Minimized,S02,Supplier_S02,Conditional,Conditional,0.0,0.0,0.0,"Malaysia backup node added: MY_Backup_Node (Core, cost=0.4442, capacity=$4M)"
+Malaysia_Backup_Node,Risk_Controlled,S05,Supplier_S05,Core,Core,0.0,0.0,0.0,"Malaysia backup node added: MY_Backup_Node (Core, cost=0.4442, capacity=$4M)"
+Malaysia_Backup_Node,Risk_Controlled,MY_Backup_Node,MY_Backup_Node,Core,Core,0.0,0.0,4000000.0,"Malaysia backup node added: MY_Backup_Node (Core, cost=0.4442, capacity=$4M)"
+Malaysia_Backup_Node,Risk_Controlled,S09,Supplier_S09,Conditional,Conditional,0.0,0.0,0.0,"Malaysia backup node added: MY_Backup_Node (Core, cost=0.4442, capacity=$4M)"
+Malaysia_Backup_Node,Risk_Controlled,S02,Supplier_S02,Conditional,Conditional,0.0,0.0,0.0,"Malaysia backup node added: MY_Backup_Node (Core, cost=0.4442, capacity=$4M)"
+Malaysia_Backup_Node,Risk_Controlled,S11,Supplier_S11,Preferred,Preferred,0.0,0.0,-2000000.0,"Malaysia backup node added: MY_Backup_Node (Core, cost=0.4442, capacity=$4M)"
+Malaysia_Backup_Node,Risk_Controlled,S10,Supplier_S10,Restricted,Restricted,0.0,0.0,0.0,"Malaysia backup node added: MY_Backup_Node (Core, cost=0.4442, capacity=$4M)"
+Malaysia_Backup_Node,Risk_Controlled,S08,Supplier_S08,Preferred,Preferred,0.0,0.0,-2000000.0,"Malaysia backup node added: MY_Backup_Node (Core, cost=0.4442, capacity=$4M)"
+Malaysia_Backup_Node,Risk_Controlled,S07,Supplier_S07,Preferred,Preferred,0.0,0.0,0.0,"Malaysia backup node added: MY_Backup_Node (Core, cost=0.4442, capacity=$4M)"
+Malaysia_Backup_Node,Risk_Controlled,S03,Supplier_S03,Preferred,Preferred,0.0,0.0,0.0,"Malaysia backup node added: MY_Backup_Node (Core, cost=0.4442, capacity=$4M)"
+Malaysia_Backup_Node,Risk_Controlled,S04,Supplier_S04,Core,Core,0.0,0.0,0.0,"Malaysia backup node added: MY_Backup_Node (Core, cost=0.4442, capacity=$4M)"

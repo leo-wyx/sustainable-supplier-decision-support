@@ -1,0 +1,5 @@
+category,supplier_count,avg_required_esg_premium_pct,suppliers_esg_justified_0_5pct,suppliers_esg_justified_5_10pct,suppliers_esg_justified_10_15pct,suppliers_esg_not_justified_over_15pct,high_tqrdc_risk_count,preferred_count,core_count,conditional_count,restricted_count,key_finding
+Critical_Raw,4,27.14,0,0,0,1,2,0,3,0,1,1 supplier(s) not ESG-justified (premium > 15%); 2 supplier(s) with high TQRDC diagnostic concern
+General_Comp,14,10.72,2,0,1,1,6,0,7,4,3,2 supplier(s) ESG-justified (0-5% premium); 1 supplier(s) ESG-justified (10-15% premium); 1 supplier(s) not ESG-justified (premium > 15%); 6 supplier(s) with high TQRDC diagnostic concern
+General_Raw,10,6.85,1,0,1,0,5,0,2,2,6,1 supplier(s) ESG-justified (0-5% premium); 1 supplier(s) ESG-justified (10-15% premium); 5 supplier(s) with high TQRDC diagnostic concern
+Key_Component,9,28.04,1,0,1,2,3,4,2,2,1,1 supplier(s) ESG-justified (0-5% premium); 1 supplier(s) ESG-justified (10-15% premium); 2 supplier(s) not ESG-justified (premium > 15%); 3 supplier(s) with high TQRDC diagnostic concern

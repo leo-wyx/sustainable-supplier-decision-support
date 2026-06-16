@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.codex_deps/
+logs/
+out*.txt
+err*.txt
+.idea/
+.openclaude/
+.openclaude-profile.json
+*.docx
+docs/archive/
+archive/legacy_m2_outputs/
+scripts/

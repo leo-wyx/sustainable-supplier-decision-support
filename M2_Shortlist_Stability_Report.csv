@@ -1,0 +1,38 @@
+﻿supplier_id,supplier_name,category,appeared_in_scenarios,stable_shortlist_flag,scenario_count,stability_comment
+S02,Supplier_S02,Key_Component,ESG Priority,NO,1,Context-dependent candidate; appears in 1/4 revised M2 views.
+S05,Supplier_S05,Key_Component,"Balanced Cost-ESG, ESG Priority, Risk-Control View",YES,3,Stable shortlist candidate across 3/4 revised M2 views.
+S09,Supplier_S09,Key_Component,"Balanced Cost-ESG, ESG Priority, Risk-Control View",YES,3,Stable shortlist candidate across 3/4 revised M2 views.
+S10,Supplier_S10,Key_Component,None,NO,0,Not shortlisted under the current Cost-ESG scenario assumptions.
+S03,Supplier_S03,Key_Component,Cost Priority,NO,1,Context-dependent candidate; appears in 1/4 revised M2 views.
+S04,Supplier_S04,Key_Component,"Cost Priority, Balanced Cost-ESG, Risk-Control View",YES,3,Stable shortlist candidate across 3/4 revised M2 views.
+S07,Supplier_S07,Key_Component,Cost Priority,NO,1,Context-dependent candidate; appears in 1/4 revised M2 views.
+S08,Supplier_S08,Key_Component,None,NO,0,Not shortlisted under the current Cost-ESG scenario assumptions.
+S11,Supplier_S11,Key_Component,"Cost Priority, Balanced Cost-ESG, ESG Priority, Risk-Control View",YES,4,Stable shortlist candidate across 4/4 revised M2 views.
+S13,Supplier_S13,Critical_Raw,"Cost Priority, Balanced Cost-ESG, ESG Priority, Risk-Control View",YES,4,Stable shortlist candidate across 4/4 revised M2 views.
+S14,Supplier_S14,Critical_Raw,"Cost Priority, Balanced Cost-ESG, ESG Priority",YES,3,Stable shortlist candidate across 3/4 revised M2 views.
+S15,Supplier_S15,Critical_Raw,"Cost Priority, Balanced Cost-ESG, ESG Priority",YES,3,Stable shortlist candidate across 3/4 revised M2 views.
+S16,Supplier_S16,Critical_Raw,None,NO,0,Not shortlisted under the current Cost-ESG scenario assumptions.
+S23,Supplier_S23,General_Comp,Risk-Control View,NO,1,Context-dependent candidate; appears in 1/4 revised M2 views.
+S24,Supplier_S24,General_Comp,Risk-Control View,NO,1,Context-dependent candidate; appears in 1/4 revised M2 views.
+S25,Supplier_S25,General_Comp,"Cost Priority, Balanced Cost-ESG, ESG Priority, Risk-Control View",YES,4,Stable shortlist candidate across 4/4 revised M2 views.
+S26,Supplier_S26,General_Comp,Cost Priority,NO,1,Context-dependent candidate; appears in 1/4 revised M2 views.
+S27,Supplier_S27,General_Comp,"Cost Priority, Balanced Cost-ESG",NO,2,Context-dependent candidate; appears in 2/4 revised M2 views.
+S28,Supplier_S28,General_Comp,None,NO,0,Not shortlisted under the current Cost-ESG scenario assumptions.
+S29,Supplier_S29,General_Comp,None,NO,0,Not shortlisted under the current Cost-ESG scenario assumptions.
+S30,Supplier_S30,General_Comp,None,NO,0,Not shortlisted under the current Cost-ESG scenario assumptions.
+S31,Supplier_S31,General_Comp,"Balanced Cost-ESG, ESG Priority",NO,2,Context-dependent candidate; appears in 2/4 revised M2 views.
+S32,Supplier_S32,General_Comp,"Cost Priority, Balanced Cost-ESG, ESG Priority",YES,3,Stable shortlist candidate across 3/4 revised M2 views.
+S33,Supplier_S33,General_Comp,"Balanced Cost-ESG, ESG Priority, Risk-Control View",YES,3,Stable shortlist candidate across 3/4 revised M2 views.
+S34,Supplier_S34,General_Comp,"ESG Priority, Risk-Control View",NO,2,Context-dependent candidate; appears in 2/4 revised M2 views.
+S36,Supplier_S36,General_Comp,Cost Priority,NO,1,Context-dependent candidate; appears in 1/4 revised M2 views.
+S37,Supplier_S37,General_Comp,"Cost Priority, Balanced Cost-ESG, ESG Priority",YES,3,Stable shortlist candidate across 3/4 revised M2 views.
+S38,Supplier_S38,General_Raw,Risk-Control View,NO,1,Context-dependent candidate; appears in 1/4 revised M2 views.
+S39,Supplier_S39,General_Raw,None,NO,0,Not shortlisted under the current Cost-ESG scenario assumptions.
+S40,Supplier_S40,General_Raw,"Cost Priority, Balanced Cost-ESG",NO,2,Context-dependent candidate; appears in 2/4 revised M2 views.
+S41,Supplier_S41,General_Raw,"Cost Priority, Balanced Cost-ESG, ESG Priority",YES,3,Stable shortlist candidate across 3/4 revised M2 views.
+S44,Supplier_S44,General_Raw,None,NO,0,Not shortlisted under the current Cost-ESG scenario assumptions.
+S45,Supplier_S45,General_Raw,"Cost Priority, Balanced Cost-ESG, ESG Priority",YES,3,Stable shortlist candidate across 3/4 revised M2 views.
+S46,Supplier_S46,General_Raw,"Cost Priority, Balanced Cost-ESG, ESG Priority",YES,3,Stable shortlist candidate across 3/4 revised M2 views.
+S48,Supplier_S48,General_Raw,"ESG Priority, Risk-Control View",NO,2,Context-dependent candidate; appears in 2/4 revised M2 views.
+S49,Supplier_S49,General_Raw,None,NO,0,Not shortlisted under the current Cost-ESG scenario assumptions.
+S50,Supplier_S50,General_Raw,None,NO,0,Not shortlisted under the current Cost-ESG scenario assumptions.

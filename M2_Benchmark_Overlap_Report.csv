@@ -1,0 +1,37 @@
+﻿Metric,Value
+Old recommended count,13
+New recommended count,18
+Overlap count,9
+Overlap rate (based on old),69.2%
+Overlap rate (based on new),50.0%
+
+Suppliers in overlap
+supplier_id,supplier_name,category,old_shortlist_status,new_Strategic_Pool
+S33,Supplier_S33,General_Comp,Shortlist with warning,Core
+S15,Supplier_S15,Critical_Raw,Shortlist with warning,Core
+S37,Supplier_S37,General_Comp,Shortlist with warning,Core
+S14,Supplier_S14,Critical_Raw,Shortlist with warning,Core
+S05,Supplier_S05,Key_Component,Preferred shortlist,Core
+S11,Supplier_S11,Key_Component,Preferred shortlist,Preferred
+S13,Supplier_S13,Critical_Raw,Shortlist with warning,Core
+S04,Supplier_S04,Key_Component,Preferred shortlist,Core
+S32,Supplier_S32,General_Comp,Shortlist with warning,Core
+
+Suppliers only in old recommended
+supplier_id,supplier_name,category,old_shortlist_status,new_Strategic_Pool
+S25,Supplier_S25,General_Comp,Shortlist with warning,Conditional
+S45,Supplier_S45,General_Raw,Shortlist with warning,Restricted
+S46,Supplier_S46,General_Raw,Shortlist with warning,Restricted
+S09,Supplier_S09,Key_Component,Shortlist with warning,Conditional
+
+Suppliers only in new recommended
+supplier_id,supplier_name,category,old_shortlist_status,new_Strategic_Pool
+S36,Supplier_S36,General_Comp,Not shortlisted,Core
+S29,Supplier_S29,General_Comp,Not shortlisted,Core
+S30,Supplier_S30,General_Comp,Not shortlisted,Core
+S44,Supplier_S44,General_Raw,Not shortlisted,Core
+S39,Supplier_S39,General_Raw,Not shortlisted,Core
+S07,Supplier_S07,Key_Component,Not shortlisted,Preferred
+S08,Supplier_S08,Key_Component,Not shortlisted,Preferred
+S03,Supplier_S03,Key_Component,Not shortlisted,Preferred
+S27,Supplier_S27,General_Comp,Conditional shortlist,Core

@@ -1,0 +1,37 @@
+policy,category,supplier_id,supplier_name,m2_pool,adjusted_cost_index,risk_level,delivery_risk,esg_tier,capacity_usd,allocation_amount,allocation_share,capacity_util_pct,notes
+Preferred_First,Key_Component,S11,Supplier_S11,Preferred,0.3019667370170849,medium,medium,ESG Leader,4890500.0,4500000.0,45.0,92.0,
+Preferred_First,Key_Component,S08,Supplier_S08,Preferred,0.3705675113019632,medium,low,ESG Leader,5992750.0,4500000.0,45.0,75.1,
+Preferred_First,Key_Component,S07,Supplier_S07,Preferred,0.4,medium,low,ESG Compliant,4358250.0,1000000.0,10.0,22.9,
+Preferred_First,Key_Component,S03,Supplier_S03,Preferred,0.4177448441964132,medium,low,ESG Compliant,5669500.0,0.0,0.0,0.0,Not allocated under Preferred_First
+Preferred_First,Key_Component,S05,Supplier_S05,Core,0.4196074450248413,low,low,ESG Leader,8471500.0,0.0,0.0,0.0,Not allocated under Preferred_First
+Preferred_First,Key_Component,S04,Supplier_S04,Core,0.4265088766307527,medium,low,ESG Compliant,4767250.0,0.0,0.0,0.0,Not allocated under Preferred_First
+Preferred_First,Key_Component,S09,Supplier_S09,Conditional,0.6,low,low,ESG Leader,13254250.0,0.0,0.0,0.0,Not allocated under Preferred_First
+Preferred_First,Key_Component,S02,Supplier_S02,Conditional,0.6782620524393883,low,low,ESG Leader,12439500.0,0.0,0.0,0.0,Not allocated under Preferred_First
+Preferred_First,Key_Component,S10,Supplier_S10,Restricted,0.3308282022707193,medium,low,ESG Compliant,7064750.0,0.0,0.0,0.0,Restricted: zero allocation by policy
+Balanced_Core,Key_Component,S05,Supplier_S05,Core,0.4196074450248413,low,low,ESG Leader,8471500.0,2000000.0,20.0,23.6,
+Balanced_Core,Key_Component,S04,Supplier_S04,Core,0.4265088766307527,medium,low,ESG Compliant,4767250.0,2000000.0,20.0,42.0,
+Balanced_Core,Key_Component,S11,Supplier_S11,Preferred,0.3019667370170849,medium,medium,ESG Leader,4890500.0,4000000.0,40.0,81.8,
+Balanced_Core,Key_Component,S08,Supplier_S08,Preferred,0.3705675113019632,medium,low,ESG Leader,5992750.0,2000000.0,20.0,33.4,
+Balanced_Core,Key_Component,S07,Supplier_S07,Preferred,0.4,medium,low,ESG Compliant,4358250.0,0.0,0.0,0.0,Not allocated under Balanced_Core
+Balanced_Core,Key_Component,S03,Supplier_S03,Preferred,0.4177448441964132,medium,low,ESG Compliant,5669500.0,0.0,0.0,0.0,Not allocated under Balanced_Core
+Balanced_Core,Key_Component,S09,Supplier_S09,Conditional,0.6,low,low,ESG Leader,13254250.0,0.0,0.0,0.0,Not allocated under Balanced_Core
+Balanced_Core,Key_Component,S02,Supplier_S02,Conditional,0.6782620524393883,low,low,ESG Leader,12439500.0,0.0,0.0,0.0,Not allocated under Balanced_Core
+Balanced_Core,Key_Component,S10,Supplier_S10,Restricted,0.3308282022707193,medium,low,ESG Compliant,7064750.0,0.0,0.0,0.0,Restricted: zero allocation by policy
+Cost_Minimized,Key_Component,S11,Supplier_S11,Preferred,0.3019667370170849,medium,medium,ESG Leader,4890500.0,4000000.0,40.0,81.8,
+Cost_Minimized,Key_Component,S10,Supplier_S10,Restricted,0.3308282022707193,medium,low,ESG Compliant,7064750.0,0.0,0.0,0.0,Restricted: zero allocation by policy
+Cost_Minimized,Key_Component,S08,Supplier_S08,Preferred,0.3705675113019632,medium,low,ESG Leader,5992750.0,4000000.0,40.0,66.7,
+Cost_Minimized,Key_Component,S07,Supplier_S07,Preferred,0.4,medium,low,ESG Compliant,4358250.0,2000000.0,20.0,45.9,
+Cost_Minimized,Key_Component,S03,Supplier_S03,Preferred,0.4177448441964132,medium,low,ESG Compliant,5669500.0,0.0,0.0,0.0,Not allocated under Cost_Minimized
+Cost_Minimized,Key_Component,S05,Supplier_S05,Core,0.4196074450248413,low,low,ESG Leader,8471500.0,0.0,0.0,0.0,Not allocated under Cost_Minimized
+Cost_Minimized,Key_Component,S04,Supplier_S04,Core,0.4265088766307527,medium,low,ESG Compliant,4767250.0,0.0,0.0,0.0,Not allocated under Cost_Minimized
+Cost_Minimized,Key_Component,S09,Supplier_S09,Conditional,0.6,low,low,ESG Leader,13254250.0,0.0,0.0,0.0,Not allocated under Cost_Minimized
+Cost_Minimized,Key_Component,S02,Supplier_S02,Conditional,0.6782620524393883,low,low,ESG Leader,12439500.0,0.0,0.0,0.0,Not allocated under Cost_Minimized
+Risk_Controlled,Key_Component,S05,Supplier_S05,Core,0.4196074450248413,low,low,ESG Leader,8471500.0,4000000.0,40.0,47.2,
+Risk_Controlled,Key_Component,S09,Supplier_S09,Conditional,0.6,low,low,ESG Leader,13254250.0,500000.0,5.0,3.8,
+Risk_Controlled,Key_Component,S02,Supplier_S02,Conditional,0.6782620524393883,low,low,ESG Leader,12439500.0,500000.0,5.0,4.0,
+Risk_Controlled,Key_Component,S11,Supplier_S11,Preferred,0.3019667370170849,medium,medium,ESG Leader,4890500.0,3000000.0,30.0,61.3,
+Risk_Controlled,Key_Component,S10,Supplier_S10,Restricted,0.3308282022707193,medium,low,ESG Compliant,7064750.0,0.0,0.0,0.0,Restricted: zero allocation by policy
+Risk_Controlled,Key_Component,S08,Supplier_S08,Preferred,0.3705675113019632,medium,low,ESG Leader,5992750.0,2000000.0,20.0,33.4,
+Risk_Controlled,Key_Component,S07,Supplier_S07,Preferred,0.4,medium,low,ESG Compliant,4358250.0,0.0,0.0,0.0,Not allocated under Risk_Controlled
+Risk_Controlled,Key_Component,S03,Supplier_S03,Preferred,0.4177448441964132,medium,low,ESG Compliant,5669500.0,0.0,0.0,0.0,Not allocated under Risk_Controlled
+Risk_Controlled,Key_Component,S04,Supplier_S04,Core,0.4265088766307527,medium,low,ESG Compliant,4767250.0,0.0,0.0,0.0,Not allocated under Risk_Controlled

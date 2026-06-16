@@ -1,0 +1,38 @@
+﻿supplier_id,supplier_name,category,M1_Status,cost_score,esg_score,cost_esg_score,shortlist_status,shortlist_reason,key_warning
+S14,Supplier_S14,Critical_Raw,PASS,0.7,0.35,0.5425,Shortlist with warning,"Score-based category rank 1, shortlisted in 3/4 Cost-ESG views.",high risk diagnostic; ESG weakness
+S13,Supplier_S13,Critical_Raw,PASS,0.5125,0.3625,0.445,Shortlist with warning,"Score-based category rank 2, shortlisted in 4/4 Cost-ESG views.",ESG weakness
+S15,Supplier_S15,Critical_Raw,PASS,0.2125,0.6625,0.415,Shortlist with warning,"Score-based category rank 3, shortlisted in 3/4 Cost-ESG views.",high risk diagnostic; cost disadvantage
+S16,Supplier_S16,Critical_Raw,PASS,0.325,0.3875,0.3531,Not shortlisted,"Score-based category rank 4, shortlisted in 0/4 Cost-ESG views.",high risk diagnostic; high delivery risk; ESG weakness; cost disadvantage
+S32,Supplier_S32,General_Comp,PASS,0.8,0.5625,0.6931,Shortlist with warning,"Score-based category rank 1, shortlisted in 3/4 Cost-ESG views.",high risk diagnostic
+S37,Supplier_S37,General_Comp,PASS,0.6875,0.525,0.6144,Shortlist with warning,"Score-based category rank 2, shortlisted in 3/4 Cost-ESG views.",high risk diagnostic
+S25,Supplier_S25,General_Comp,PASS,0.3375,0.9375,0.6075,Shortlist with warning,"Score-based category rank 3, shortlisted in 4/4 Cost-ESG views.",cost disadvantage
+S27,Supplier_S27,General_Comp,PASS,0.625,0.4375,0.5406,Conditional shortlist,"Score-based category rank 4, shortlisted in 2/4 Cost-ESG views.",ESG weakness
+S33,Supplier_S33,General_Comp,PASS,0.3375,0.7875,0.54,Shortlist with warning,"Score-based category rank 5, shortlisted in 3/4 Cost-ESG views.",cost disadvantage
+S31,Supplier_S31,General_Comp,LIMITED_QUALITY_TECH,0.4348,0.5625,0.4923,Restricted - diagnostic only,"Score-based category rank 6, shortlisted in 2/4 Cost-ESG views.",M1 status LIMITED_QUALITY_TECH; high risk diagnostic; capability gap; cost disadvantage
+S34,Supplier_S34,General_Comp,PASS,0.275,0.7375,0.4831,Not shortlisted,"Score-based category rank 7, shortlisted in 2/4 Cost-ESG views.",cost disadvantage
+S36,Supplier_S36,General_Comp,PASS,0.6625,0.2625,0.4825,Not shortlisted,"Score-based category rank 8, shortlisted in 1/4 Cost-ESG views.",high risk diagnostic; ESG weakness
+S30,Supplier_S30,General_Comp,PASS,0.3875,0.525,0.4494,Not shortlisted,"Score-based category rank 9, shortlisted in 0/4 Cost-ESG views.",cost disadvantage
+S26,Supplier_S26,General_Comp,LIMITED_QUALITY_TECH,0.5761,0.2625,0.435,Restricted - diagnostic only,"Score-based category rank 10, shortlisted in 1/4 Cost-ESG views.",M1 status LIMITED_QUALITY_TECH; high risk diagnostic; quality concern; ESG weakness
+S28,Supplier_S28,General_Comp,PASS,0.55,0.2625,0.4206,Not shortlisted,"Score-based category rank 11, shortlisted in 0/4 Cost-ESG views.",high risk diagnostic; capability gap; ESG weakness
+S29,Supplier_S29,General_Comp,PASS,0.4,0.35,0.3775,Not shortlisted,"Score-based category rank 12, shortlisted in 0/4 Cost-ESG views.",high risk diagnostic; ESG weakness; cost disadvantage
+S24,Supplier_S24,General_Comp,PASS,0.25,0.45,0.34,Not shortlisted,"Score-based category rank 13, shortlisted in 1/4 Cost-ESG views.",cost disadvantage
+S23,Supplier_S23,General_Comp,PASS,0.2125,0.3625,0.28,Not shortlisted,"Score-based category rank 14, shortlisted in 1/4 Cost-ESG views.",ESG weakness; cost disadvantage
+S45,Supplier_S45,General_Raw,PASS,0.6875,0.525,0.6144,Shortlist with warning,"Score-based category rank 1, shortlisted in 3/4 Cost-ESG views.",high risk diagnostic; capability gap
+S46,Supplier_S46,General_Raw,PASS,0.65,0.5625,0.6106,Shortlist with warning,"Score-based category rank 2, shortlisted in 3/4 Cost-ESG views.",high risk diagnostic; capability gap
+S41,Supplier_S41,General_Raw,LIMITED_QUALITY_TECH,0.6739,0.4375,0.5675,Restricted - diagnostic only,"Score-based category rank 3, shortlisted in 3/4 Cost-ESG views.",M1 status LIMITED_QUALITY_TECH; high risk diagnostic; quality concern; ESG weakness
+S40,Supplier_S40,General_Raw,PASS,0.7,0.2625,0.5031,Conditional shortlist,"Score-based category rank 4, shortlisted in 2/4 Cost-ESG views.",high risk diagnostic; capability gap; ESG weakness
+S48,Supplier_S48,General_Raw,PASS,0.275,0.75,0.4888,Not shortlisted,"Score-based category rank 5, shortlisted in 2/4 Cost-ESG views.",cost disadvantage
+S44,Supplier_S44,General_Raw,PASS,0.425,0.525,0.47,Not shortlisted,"Score-based category rank 6, shortlisted in 0/4 Cost-ESG views.",cost disadvantage
+S39,Supplier_S39,General_Raw,PASS,0.4,0.35,0.3775,Not shortlisted,"Score-based category rank 7, shortlisted in 0/4 Cost-ESG views.",high risk diagnostic; ESG weakness; cost disadvantage
+S50,Supplier_S50,General_Raw,LIMITED_ETHICS,0.2589,0.3375,0.2943,Restricted - diagnostic only,"Score-based category rank 8, shortlisted in 0/4 Cost-ESG views.",M1 status LIMITED_ETHICS; high risk diagnostic; ESG weakness; cost disadvantage
+S38,Supplier_S38,General_Raw,PASS,0.2125,0.3625,0.28,Not shortlisted,"Score-based category rank 9, shortlisted in 1/4 Cost-ESG views.",ESG weakness; cost disadvantage
+S49,Supplier_S49,General_Raw,PASS,0.1375,0.425,0.2669,Not shortlisted,"Score-based category rank 10, shortlisted in 0/4 Cost-ESG views.",high risk diagnostic; capability gap; ESG weakness; cost disadvantage
+S11,Supplier_S11,Key_Component,PASS,0.6125,0.75,0.6744,Preferred shortlist,"Score-based category rank 1, shortlisted in 4/4 Cost-ESG views.",No material warning
+S05,Supplier_S05,Key_Component,PASS,0.45,0.8875,0.6469,Preferred shortlist,"Score-based category rank 2, shortlisted in 3/4 Cost-ESG views.",No material warning
+S09,Supplier_S09,Key_Component,PASS,0.4,0.9375,0.6419,Shortlist with warning,"Score-based category rank 3, shortlisted in 3/4 Cost-ESG views.",cost disadvantage
+S04,Supplier_S04,Key_Component,PASS,0.6625,0.575,0.6231,Preferred shortlist,"Score-based category rank 4, shortlisted in 3/4 Cost-ESG views.",No material warning
+S07,Supplier_S07,Key_Component,PASS,0.6625,0.575,0.6231,Not shortlisted,"Score-based category rank 4, shortlisted in 1/4 Cost-ESG views.",No material warning
+S03,Supplier_S03,Key_Component,PASS,0.5875,0.6625,0.6212,Not shortlisted,"Score-based category rank 6, shortlisted in 1/4 Cost-ESG views.",No material warning
+S02,Supplier_S02,Key_Component,PASS,0.3375,0.9375,0.6075,Not shortlisted,"Score-based category rank 7, shortlisted in 1/4 Cost-ESG views.",cost disadvantage
+S08,Supplier_S08,Key_Component,PASS,0.4625,0.75,0.5919,Not shortlisted,"Score-based category rank 8, shortlisted in 0/4 Cost-ESG views.",No material warning
+S10,Supplier_S10,Key_Component,LIMITED_QUALITY_TECH,0.3913,0.6625,0.5133,Restricted - diagnostic only,"Score-based category rank 9, shortlisted in 0/4 Cost-ESG views.",M1 status LIMITED_QUALITY_TECH; quality concern; cost disadvantage

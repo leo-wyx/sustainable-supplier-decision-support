@@ -1,0 +1,5 @@
+policy,label,category,total_demand,allocated_amount,unmet_demand,preferred_share,core_share,conditional_share,restricted_share,weighted_cost_index,supplier_count_used,risk_notes
+Preferred_First,Preferred First,Key_Component,10000000,10000000,0,100.0,0.0,0.0,0.0,0.3426,3,medium=3
+Balanced_Core,Balanced Core,Key_Component,10000000,10000000,0,60.0,40.0,0.0,0.0,0.3641,4,"low=1, medium=3"
+Cost_Minimized,Cost Minimized,Key_Component,10000000,10000000,0,100.0,0.0,0.0,0.0,0.349,3,medium=3
+Risk_Controlled,Risk Controlled,Key_Component,10000000,10000000,0,50.0,40.0,10.0,0.0,0.3965,5,"low=3, medium=2"

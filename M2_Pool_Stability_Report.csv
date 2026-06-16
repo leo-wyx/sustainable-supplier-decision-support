@@ -1,0 +1,38 @@
+﻿supplier_id,supplier_name,category,base_pool,cost_pressure_pool,carbon_pressure_pool,risk_control_pool,strict_esg_pool,preferred_core_count,pool_change_count,stability_label,stability_comment
+S14,Supplier_S14,Critical_Raw,Core,Core,Conditional,Conditional,Core,3,2,Moderate,Preferred/Core in 3/5 scenarios; vulnerable under 2 scenario(s)
+S29,Supplier_S29,General_Comp,Core,Core,Conditional,Conditional,Core,3,2,Moderate,Preferred/Core in 3/5 scenarios; vulnerable under 2 scenario(s)
+S36,Supplier_S36,General_Comp,Core,Core,Conditional,Conditional,Core,3,2,Moderate,Preferred/Core in 3/5 scenarios; vulnerable under 2 scenario(s)
+S39,Supplier_S39,General_Raw,Core,Core,Conditional,Conditional,Core,3,2,Moderate,Preferred/Core in 3/5 scenarios; vulnerable under 2 scenario(s)
+S23,Supplier_S23,General_Comp,Conditional,Conditional,Restricted,Conditional,Conditional,0,1,Sensitive,Preferred/Core in only 0/5 scenarios; high sensitivity to scenario conditions
+S24,Supplier_S24,General_Comp,Conditional,Conditional,Restricted,Conditional,Conditional,0,1,Sensitive,Preferred/Core in only 0/5 scenarios; high sensitivity to scenario conditions
+S38,Supplier_S38,General_Raw,Conditional,Conditional,Restricted,Conditional,Conditional,0,1,Sensitive,Preferred/Core in only 0/5 scenarios; high sensitivity to scenario conditions
+S13,Supplier_S13,Critical_Raw,Core,Core,Conditional,Core,Core,4,1,Stable,Preferred/Core in 4/5 scenarios; resilient to scenario shocks
+S15,Supplier_S15,Critical_Raw,Core,Core,Core,Conditional,Core,4,1,Stable,Preferred/Core in 4/5 scenarios; resilient to scenario shocks
+S16,Supplier_S16,Critical_Raw,Restricted,Restricted,Restricted,Restricted,Restricted,0,0,Stable,Unchanged across all 5 scenarios
+S25,Supplier_S25,General_Comp,Conditional,Conditional,Conditional,Conditional,Conditional,0,0,Stable,Unchanged across all 5 scenarios
+S26,Supplier_S26,General_Comp,Restricted,Restricted,Restricted,Restricted,Restricted,0,0,Stable,Unchanged across all 5 scenarios
+S27,Supplier_S27,General_Comp,Core,Core,Conditional,Core,Core,4,1,Stable,Preferred/Core in 4/5 scenarios; resilient to scenario shocks
+S28,Supplier_S28,General_Comp,Restricted,Restricted,Restricted,Restricted,Restricted,0,0,Stable,Unchanged across all 5 scenarios
+S30,Supplier_S30,General_Comp,Core,Core,Conditional,Core,Core,4,1,Stable,Preferred/Core in 4/5 scenarios; resilient to scenario shocks
+S31,Supplier_S31,General_Comp,Restricted,Restricted,Restricted,Restricted,Restricted,0,0,Stable,Unchanged across all 5 scenarios
+S32,Supplier_S32,General_Comp,Core,Core,Core,Conditional,Core,4,1,Stable,Preferred/Core in 4/5 scenarios; resilient to scenario shocks
+S33,Supplier_S33,General_Comp,Core,Core,Core,Core,Core,5,0,Stable,Unchanged across all 5 scenarios
+S34,Supplier_S34,General_Comp,Conditional,Conditional,Conditional,Conditional,Conditional,0,0,Stable,Unchanged across all 5 scenarios
+S37,Supplier_S37,General_Comp,Core,Core,Core,Conditional,Core,4,1,Stable,Preferred/Core in 4/5 scenarios; resilient to scenario shocks
+S40,Supplier_S40,General_Raw,Restricted,Restricted,Restricted,Restricted,Restricted,0,0,Stable,Unchanged across all 5 scenarios
+S41,Supplier_S41,General_Raw,Restricted,Restricted,Restricted,Restricted,Restricted,0,0,Stable,Unchanged across all 5 scenarios
+S44,Supplier_S44,General_Raw,Core,Core,Conditional,Core,Core,4,1,Stable,Preferred/Core in 4/5 scenarios; resilient to scenario shocks
+S45,Supplier_S45,General_Raw,Restricted,Restricted,Restricted,Restricted,Restricted,0,0,Stable,Unchanged across all 5 scenarios
+S46,Supplier_S46,General_Raw,Restricted,Restricted,Restricted,Restricted,Restricted,0,0,Stable,Unchanged across all 5 scenarios
+S48,Supplier_S48,General_Raw,Conditional,Conditional,Conditional,Conditional,Conditional,0,0,Stable,Unchanged across all 5 scenarios
+S49,Supplier_S49,General_Raw,Restricted,Restricted,Restricted,Restricted,Restricted,0,0,Stable,Unchanged across all 5 scenarios
+S50,Supplier_S50,General_Raw,Restricted,Restricted,Restricted,Restricted,Restricted,0,0,Stable,Unchanged across all 5 scenarios
+S02,Supplier_S02,Key_Component,Conditional,Conditional,Conditional,Conditional,Conditional,0,0,Stable,Unchanged across all 5 scenarios
+S03,Supplier_S03,Key_Component,Preferred,Preferred,Preferred,Preferred,Preferred,5,0,Stable,Unchanged across all 5 scenarios
+S04,Supplier_S04,Key_Component,Core,Core,Core,Core,Core,5,0,Stable,Unchanged across all 5 scenarios
+S05,Supplier_S05,Key_Component,Core,Core,Core,Core,Core,5,0,Stable,Unchanged across all 5 scenarios
+S07,Supplier_S07,Key_Component,Preferred,Preferred,Core,Preferred,Preferred,5,1,Stable,Preferred/Core in 5/5 scenarios; resilient to scenario shocks
+S08,Supplier_S08,Key_Component,Preferred,Preferred,Preferred,Preferred,Preferred,5,0,Stable,Unchanged across all 5 scenarios
+S09,Supplier_S09,Key_Component,Conditional,Conditional,Conditional,Conditional,Conditional,0,0,Stable,Unchanged across all 5 scenarios
+S10,Supplier_S10,Key_Component,Restricted,Restricted,Restricted,Restricted,Restricted,0,0,Stable,Unchanged across all 5 scenarios
+S11,Supplier_S11,Key_Component,Preferred,Preferred,Preferred,Preferred,Preferred,5,0,Stable,Unchanged across all 5 scenarios

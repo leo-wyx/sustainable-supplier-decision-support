@@ -1,0 +1,5 @@
+supplier_id,supplier_name,category,scenario,capacity_value_usd,capacity_unit,capacity_source,capacity_confidence,capacity_note,teacher_confirmed
+TBD,TBD,Key_Component,Base,TBD,USD,TBD / proxy or external scenario input,TBD,TBD / pending professor confirmation,No
+TBD,TBD,Critical_Raw,Base,TBD,USD,TBD / proxy or external scenario input,TBD,TBD / pending professor confirmation,No
+TBD,TBD,General_Comp,Base,TBD,USD,TBD / proxy or external scenario input,TBD,TBD / pending professor confirmation,No
+TBD,TBD,General_Raw,Base,TBD,USD,TBD / proxy or external scenario input,TBD,TBD / pending professor confirmation,No
