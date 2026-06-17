@@ -12,6 +12,10 @@ using arbitrary weighted scoring, simulates four sourcing allocation policies,
 and stress-tests supplier-pool resilience under demand surge, supplier
 disruption, carbon pressure, and backup-node scenarios.
 
+The Streamlit dashboard is designed as a business-facing prototype for sourcing
+managers to review supplier pools, ESG premium thresholds, allocation policies,
+and scenario resilience.
+
 Key result: Balanced_Core provides the most robust allocation structure across
 16 scenario-policy combinations, while 30/37 active suppliers remain stable
 under multi-dimensional stress views.
