@@ -202,6 +202,26 @@ python M4_Resilience_Scenario.py
 | `docs/portfolio_project_brief.md` | Resume and interview-oriented project brief |
 | `docs/demo_summary.md` | Short demo narrative |
 
+## Dashboard
+
+An interactive Streamlit dashboard is available for visual exploration of the
+supplier pool, cost-ESG trade-off rankings, allocation policies, resilience
+scenarios, and validation reports.
+
+```bash
+streamlit run app.py
+```
+
+The dashboard reads existing CSV outputs only -- no model logic is executed.
+
+Tabs:
+- **Overview** -- key counts, pool distribution, trade-off summary by category.
+- **Supplier Pool** -- filterable table with pool distribution charts.
+- **Cost-ESG Trade-off** -- ranking with selectable ESG premium tolerance (0%-15%).
+- **Allocation Policy** -- compare Preferred_First, Balanced_Core, Cost_Minimized, Risk_Controlled.
+- **Resilience Scenario** -- 16 scenario-policy combinations with coverage check.
+- **Validation** -- pool stability and external benchmark alignment.
+
 ## Limitations
 
 - The supplier dataset is project/simulation data, not confidential enterprise
@@ -219,5 +239,4 @@ python M4_Resilience_Scenario.py
   supplier capacity data.
 - Convert TQRDC diagnostics into monetary penalties only when contract,
   quality-loss, ERP delay, or disruption-loss data is available.
-- Build a dashboard for interactive pool review, ESG premium tolerance, and
-  scenario comparison.
+- Dashboard now available (see Dashboard section above).
