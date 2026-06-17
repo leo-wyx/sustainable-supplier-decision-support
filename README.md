@@ -1,5 +1,21 @@
 # Cost-led ESG Supplier Decision Support System
 
+## TL;DR / Portfolio Summary
+
+A Python-based sustainable procurement decision-support system that helps
+sourcing teams evaluate suppliers across cost, ESG, risk, and resilience
+dimensions.
+
+The system screens 50 suppliers through a qualification gate, classifies 37
+active suppliers into strategic pools, compares ESG premium tolerance instead of
+using arbitrary weighted scoring, simulates four sourcing allocation policies,
+and stress-tests supplier-pool resilience under demand surge, supplier
+disruption, carbon pressure, and backup-node scenarios.
+
+Key result: Balanced_Core provides the most robust allocation structure across
+16 scenario-policy combinations, while 30/37 active suppliers remain stable
+under multi-dimensional stress views.
+
 ## Portfolio Snapshot
 
 **Role:** Data / supply-chain analytics project  
@@ -221,6 +237,16 @@ Tabs:
 - **Allocation Policy** -- compare Preferred_First, Balanced_Core, Cost_Minimized, Risk_Controlled.
 - **Resilience Scenario** -- 16 scenario-policy combinations with coverage check.
 - **Validation** -- pool stability and external benchmark alignment.
+
+## Dashboard Preview
+
+![Dashboard Overview](docs/images/dashboard_overview.png)
+![Supplier Pool](docs/images/supplier_pool.png)
+![Cost ESG Tradeoff](docs/images/cost_esg_tradeoff.png)
+![Resilience Scenario](docs/images/resilience_scenario.png)
+
+Dashboard screenshots are generated from the Streamlit app and are intended for
+quick portfolio review.
 
 ## Limitations
 
